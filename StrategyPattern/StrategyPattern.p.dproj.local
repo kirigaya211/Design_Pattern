@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2025/06/30 13:22:56.458,=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025/06/30 13:24:24.061,=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2025/06/30 13:34:02.888,C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\clsDuck.pas=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2025/06/30 16:49:38.753,C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\StrategyPattern.dfm=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2025/06/30 16:49:38.753,C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\StrategyPattern.pas=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025/06/30 16:50:09.384,C:\Users\END-USER\Documents\Design Pattern Training\StrategyPattern\StrategyPattern.dfm=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\StrategyPattern.dfm</Transaction>
+    <Transaction>2025/06/30 16:50:09.384,C:\Users\END-USER\Documents\Design Pattern Training\StrategyPattern\StrategyPattern.pas=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\StrategyPattern.pas</Transaction>
+    <Transaction>2025/06/30 16:50:25.082,C:\Users\END-USER\Documents\Design Pattern Training\StrategyPattern\clsDuck.pas=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\clsDuck.pas</Transaction>
+    <Transaction>2025/06/30 16:51:18.045,C:\Users\END-USER\Documents\Design Pattern Training\StrategyPattern\StrategyPattern.p.dproj=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
