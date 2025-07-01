@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2025/07/01 10:54:47.119,=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025/07/01 11:00:45.173,C:\Users\END-USER\Documents\Design Pattern Training\Observer Pattern\ObserverPatternu.dfm=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2025/07/01 11:00:45.173,C:\Users\END-USER\Documents\Design Pattern Training\Observer Pattern\ObserverPatternu.pas=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025/07/01 11:00:56.950,C:\Users\END-USER\Documents\Design Pattern Training\Observer Pattern\ObserverPatternp.dproj=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2025/07/01 11:09:35.826,=C:\Users\END-USER\Documents\Design Pattern Training\Observer Pattern\Unit1.pas</Transaction>
+    <Transaction>2025/07/01 11:10:16.066,C:\Users\END-USER\Documents\Design Pattern Training\Observer Pattern\Statistics.pas=C:\Users\END-USER\Documents\Design Pattern Training\Observer Pattern\Unit1.pas</Transaction>
+    <Transaction>2025/07/01 11:10:31.996,=C:\Users\END-USER\Documents\Design Pattern Training\Observer Pattern\Unit1.pas</Transaction>
+    <Transaction>2025/07/01 11:10:42.877,C:\Users\END-USER\Documents\Design Pattern Training\Observer Pattern\Strength.pas=C:\Users\END-USER\Documents\Design Pattern Training\Observer Pattern\Unit1.pas</Transaction>
+    <Transaction>2025/07/01 11:10:49.913,=C:\Users\END-USER\Documents\Design Pattern Training\Observer Pattern\Unit1.pas</Transaction>
+    <Transaction>2025/07/01 11:10:53.666,=C:\Users\END-USER\Documents\Design Pattern Training\Observer Pattern\Unit2.pas</Transaction>
+    <Transaction>2025/07/01 11:10:57.327,=C:\Users\END-USER\Documents\Design Pattern Training\Observer Pattern\Unit3.pas</Transaction>
+    <Transaction>2025/07/01 11:11:06.761,C:\Users\END-USER\Documents\Design Pattern Training\Observer Pattern\Speed.pas=C:\Users\END-USER\Documents\Design Pattern Training\Observer Pattern\Unit1.pas</Transaction>
+    <Transaction>2025/07/01 11:11:16.760,C:\Users\END-USER\Documents\Design Pattern Training\Observer Pattern\Agility.pas=C:\Users\END-USER\Documents\Design Pattern Training\Observer Pattern\Unit2.pas</Transaction>
+    <Transaction>2025/07/01 11:11:35.876,C:\Users\END-USER\Documents\Design Pattern Training\Observer Pattern\Dexterity.pas=C:\Users\END-USER\Documents\Design Pattern Training\Observer Pattern\Unit3.pas</Transaction>
+    <Transaction>2025/07/01 11:11:43.828,=C:\Users\END-USER\Documents\Design Pattern Training\Observer Pattern\Unit1.pas</Transaction>
+    <Transaction>2025/07/01 11:11:56.443,C:\Users\END-USER\Documents\Design Pattern Training\Observer Pattern\Intelligence.pas=C:\Users\END-USER\Documents\Design Pattern Training\Observer Pattern\Unit1.pas</Transaction>
+    <Transaction>2025/07/01 11:12:21.847,C:\Users\END-USER\Documents\Design Pattern Training\Observer Pattern\TStatistics.pas=C:\Users\END-USER\Documents\Design Pattern Training\Observer Pattern\Statistics.pas</Transaction>
+    <Transaction>2025/07/01 13:27:40.412,C:\Users\END-USER\Documents\Design Pattern Training\Observer Pattern\TStrength.pas=C:\Users\END-USER\Documents\Design Pattern Training\Observer Pattern\Strength.pas</Transaction>
+    <Transaction>2025/07/01 13:27:55.468,C:\Users\END-USER\Documents\Design Pattern Training\Observer Pattern\Strength.pas=C:\Users\END-USER\Documents\Design Pattern Training\Observer Pattern\TStrength.pas</Transaction>
+    <Transaction>2025/07/01 15:05:21.130,C:\Users\END-USER\Documents\Design Pattern Training\Observer Pattern\ObserverPatternGroup.pas=C:\Users\END-USER\Documents\Design Pattern Training\Observer Pattern\TStatistics.pas</Transaction>
+  </Transactions>
+</BorlandProject>

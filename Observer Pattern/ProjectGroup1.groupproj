@@ -1,0 +1,36 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+    <PropertyGroup>
+        <ProjectGuid>{9FB23322-1969-46BD-94A4-3A3D5657F2B1}</ProjectGuid>
+    </PropertyGroup>
+    <ItemGroup>
+        <Projects Include="ObserverPatternp.dproj">
+            <Dependencies/>
+        </Projects>
+    </ItemGroup>
+    <ProjectExtensions>
+        <Borland.Personality>Default.Personality.12</Borland.Personality>
+        <Borland.ProjectType/>
+        <BorlandProject>
+            <Default.Personality/>
+        </BorlandProject>
+    </ProjectExtensions>
+    <Target Name="ObserverPatternp">
+        <MSBuild Projects="ObserverPatternp.dproj"/>
+    </Target>
+    <Target Name="ObserverPatternp:Clean">
+        <MSBuild Projects="ObserverPatternp.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="ObserverPatternp:Make">
+        <MSBuild Projects="ObserverPatternp.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="Build">
+        <CallTarget Targets="ObserverPatternp"/>
+    </Target>
+    <Target Name="Clean">
+        <CallTarget Targets="ObserverPatternp:Clean"/>
+    </Target>
+    <Target Name="Make">
+        <CallTarget Targets="ObserverPatternp:Make"/>
+    </Target>
+    <Import Project="$(BDS)\Bin\CodeGear.Group.Targets" Condition="Exists('$(BDS)\Bin\CodeGear.Group.Targets')"/>
+</Project>
