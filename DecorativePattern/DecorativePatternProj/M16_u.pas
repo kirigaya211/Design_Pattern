@@ -1,0 +1,29 @@
+unit M16_u;
+
+interface
+uses
+  Gun_u;
+
+type
+  TM16 = class(AGun)
+
+  public
+    constructor Create;
+    function getType: string; override;
+    function Cost():Double; override;
+  end;
+
+implementation
+
+constructor TM16.Create;
+begin
+  inherited;
+  FType := 'M16';
+end;
+
+function TM16.Cost(): Double;
+begin
+  Result := 202500.00;
+end;
+
+end.

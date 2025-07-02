@@ -1,0 +1,23 @@
+unit Gun_u;
+
+interface
+
+type
+  Gun = class
+
+  protected
+    FType: string;
+
+  public
+    constructor Create; virtual;
+    function getType: string; virtual; abstract;
+    function Cost(): Double; virtual; abstract;
+  end;
+implementation
+
+constructor Gun.Create;
+begin
+  FType := 'Type undefined';
+end;
+
+end.

@@ -1,0 +1,27 @@
+program DecorativePatternGun;
+
+{$APPTYPE CONSOLE}
+
+{$R *.res}
+
+uses
+  System.SysUtils,
+  Gun_u in 'Gun_u.pas',
+  M16_u in 'M16_u.pas',
+  Glock_u in 'Glock_u.pas',
+  AccessoryDecorator_u in 'AccessoryDecorator_u.pas',
+  Magazine_u in 'Magazine_u.pas',
+  Silencer_u in 'Silencer_u.pas',
+  Testing_u in 'Testing_u.pas';
+
+begin
+  try
+    TestGunOrder
+  except
+    on E: Exception do
+      Writeln(E.ClassName, ': ', E.Message);
+  end;
+  Writeln; // Optional: spacing
+  Writeln('Press [Enter] to exit...');
+  Readln;
+end.

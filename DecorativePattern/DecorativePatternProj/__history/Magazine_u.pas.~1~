@@ -1,0 +1,33 @@
+unit Magazine_u;
+
+interface
+uses
+  AccessoryDecorator_u;
+
+type
+  TMagazine = class(AAccessoryDecorator)
+
+  public
+    constructor Create(AGun: AGun);
+    function getType():string; override;
+    function Cost(); override;
+  end;
+
+implementation
+
+constructor TMagazine.Create(AGun: AGun);
+begin
+  inherited Create(AGun);
+end;
+
+function TMagazine.getType(): string;
+begin
+  Result := FGun.getType() + ', Magazine';
+end;
+
+function TMagazine.Cost(); Double;
+begin
+  Result := FGun.Cost() + 3500.00;
+end;
+
+end.

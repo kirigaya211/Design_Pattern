@@ -1,0 +1,36 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+    <PropertyGroup>
+        <ProjectGuid>{8042AF26-2C37-4389-8644-48133CAE1C9D}</ProjectGuid>
+    </PropertyGroup>
+    <ItemGroup>
+        <Projects Include="DecorativePatternProj\DecorativePatternGun.dproj">
+            <Dependencies/>
+        </Projects>
+    </ItemGroup>
+    <ProjectExtensions>
+        <Borland.Personality>Default.Personality.12</Borland.Personality>
+        <Borland.ProjectType/>
+        <BorlandProject>
+            <Default.Personality/>
+        </BorlandProject>
+    </ProjectExtensions>
+    <Target Name="DecorativePatternGun">
+        <MSBuild Projects="DecorativePatternProj\DecorativePatternGun.dproj"/>
+    </Target>
+    <Target Name="DecorativePatternGun:Clean">
+        <MSBuild Projects="DecorativePatternProj\DecorativePatternGun.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="DecorativePatternGun:Make">
+        <MSBuild Projects="DecorativePatternProj\DecorativePatternGun.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="Build">
+        <CallTarget Targets="DecorativePatternGun"/>
+    </Target>
+    <Target Name="Clean">
+        <CallTarget Targets="DecorativePatternGun:Clean"/>
+    </Target>
+    <Target Name="Make">
+        <CallTarget Targets="DecorativePatternGun:Make"/>
+    </Target>
+    <Import Project="$(BDS)\Bin\CodeGear.Group.Targets" Condition="Exists('$(BDS)\Bin\CodeGear.Group.Targets')"/>
+</Project>

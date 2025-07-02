@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2025/07/02 13:51:30.000.669,=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025/07/02 13:51:48.000.710,C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\Gun.pas=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025/07/02 13:52:13.000.531,C:\Users\END-USER\Documents\Design Pattern Training\DecorativePattern\DecorativePatternProj\AGun.pas=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\Gun.pas</Transaction>
+    <Transaction>2025/07/02 13:52:39.000.424,C:\Users\END-USER\Documents\Design Pattern Training\DecorativePattern\DecorativePatternProj\DecorativePatternGun.dproj=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2025/07/02 14:07:24.000.254,=C:\Users\END-USER\Documents\Design Pattern Training\DecorativePattern\DecorativePatternProj\Unit1.pas</Transaction>
+    <Transaction>2025/07/02 14:08:20.000.622,C:\Users\END-USER\Documents\Design Pattern Training\DecorativePattern\DecorativePatternProj\AGun.pas=C:\Users\END-USER\Documents\Design Pattern Training\DecorativePattern\DecorativePatternProj\Gun_u.pas</Transaction>
+    <Transaction>2025/07/02 14:08:52.000.549,C:\Users\END-USER\Documents\Design Pattern Training\DecorativePattern\DecorativePatternProj\Unit1.pas=C:\Users\END-USER\Documents\Design Pattern Training\DecorativePattern\DecorativePatternProj\M16_u.pas</Transaction>
+    <Transaction>2025/07/02 14:13:28.000.025,=C:\Users\END-USER\Documents\Design Pattern Training\DecorativePattern\DecorativePatternProj\Unit1.pas</Transaction>
+    <Transaction>2025/07/02 14:13:45.000.520,C:\Users\END-USER\Documents\Design Pattern Training\DecorativePattern\DecorativePatternProj\Unit1.pas=C:\Users\END-USER\Documents\Design Pattern Training\DecorativePattern\DecorativePatternProj\Glock_u.pas</Transaction>
+    <Transaction>2025/07/02 14:19:13.000.810,=C:\Users\END-USER\Documents\Design Pattern Training\DecorativePattern\DecorativePatternProj\Unit1.pas</Transaction>
+    <Transaction>2025/07/02 14:19:44.000.847,C:\Users\END-USER\Documents\Design Pattern Training\DecorativePattern\DecorativePatternProj\Unit1.pas=C:\Users\END-USER\Documents\Design Pattern Training\DecorativePattern\DecorativePatternProj\AccessoryDecorator_u.pas</Transaction>
+    <Transaction>2025/07/02 14:25:10.000.413,=C:\Users\END-USER\Documents\Design Pattern Training\DecorativePattern\DecorativePatternProj\Unit1.pas</Transaction>
+    <Transaction>2025/07/02 14:25:39.000.458,C:\Users\END-USER\Documents\Design Pattern Training\DecorativePattern\DecorativePatternProj\Unit1.pas=C:\Users\END-USER\Documents\Design Pattern Training\DecorativePattern\DecorativePatternProj\Magazine_u.pas</Transaction>
+    <Transaction>2025/07/02 14:43:44.000.851,=C:\Users\END-USER\Documents\Design Pattern Training\DecorativePattern\DecorativePatternProj\Unit1.pas</Transaction>
+    <Transaction>2025/07/02 14:43:58.000.998,C:\Users\END-USER\Documents\Design Pattern Training\DecorativePattern\DecorativePatternProj\Unit1.pas=C:\Users\END-USER\Documents\Design Pattern Training\DecorativePattern\DecorativePatternProj\Silencer_u.pas</Transaction>
+    <Transaction>2025/07/02 14:54:12.000.021,=C:\Users\END-USER\Documents\Design Pattern Training\DecorativePattern\DecorativePatternProj\Unit1.pas</Transaction>
+    <Transaction>2025/07/02 14:54:40.000.640,C:\Users\END-USER\Documents\Design Pattern Training\DecorativePattern\DecorativePatternProj\Unit1.pas=C:\Users\END-USER\Documents\Design Pattern Training\DecorativePattern\DecorativePatternProj\Testing_u.pas</Transaction>
+  </Transactions>
+</BorlandProject>
