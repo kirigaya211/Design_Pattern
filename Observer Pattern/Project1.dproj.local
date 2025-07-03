@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2025/07/03 16:29:57.416,=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025/07/03 16:30:19.896,C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\intfSubject.pas=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025/07/03 16:31:43.698,=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025/07/03 16:31:59.722,C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\clsWeatherData.pas=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025/07/03 16:36:25.770,=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025/07/03 16:36:38.492,C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\intfObserver.pas=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025/07/03 16:37:25.826,=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025/07/03 16:37:55.566,C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\intfDisplayElement.pas=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025/07/03 16:38:34.932,=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025/07/03 16:38:51.501,C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\clsCurrentConditionDisplay.pas=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025/07/03 16:41:43.353,=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025/07/03 16:42:06.731,C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\clsStaticsDisplay.pas=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025/07/03 16:43:46.879,=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025/07/03 16:44:03.773,C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\clsThirdPartyDisplay.pas=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025/07/03 16:44:54.239,=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025/07/03 16:45:08.506,C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\clsForecastDisplay.pas=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025/07/03 16:59:50.905,C:\Users\END-USER\Documents\Design Pattern Training\Observer Pattern\ObserverPatternGroup.pas=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\clsWeatherData.pas</Transaction>
+    <Transaction>2025/07/03 16:59:54.896,C:\Users\END-USER\Documents\Design Pattern Training\Observer Pattern\intfSubject.pas=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\intfSubject.pas</Transaction>
+    <Transaction>2025/07/03 16:59:56.236,C:\Users\END-USER\Documents\Design Pattern Training\Observer Pattern\intfObserver.pas=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\intfObserver.pas</Transaction>
+    <Transaction>2025/07/03 16:59:57.474,C:\Users\END-USER\Documents\Design Pattern Training\Observer Pattern\clsForecastDisplay.pas=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\clsForecastDisplay.pas</Transaction>
+    <Transaction>2025/07/03 16:59:58.901,C:\Users\END-USER\Documents\Design Pattern Training\Observer Pattern\clsThirdPartyDisplay.pas=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\clsThirdPartyDisplay.pas</Transaction>
+    <Transaction>2025/07/03 17:00:00.111,C:\Users\END-USER\Documents\Design Pattern Training\Observer Pattern\clsStaticsDisplay.pas=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\clsStaticsDisplay.pas</Transaction>
+    <Transaction>2025/07/03 17:00:01.440,C:\Users\END-USER\Documents\Design Pattern Training\Observer Pattern\clsCurrentConditionDisplay.pas=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\clsCurrentConditionDisplay.pas</Transaction>
+    <Transaction>2025/07/03 17:00:02.758,C:\Users\END-USER\Documents\Design Pattern Training\Observer Pattern\intfDisplayElement.pas=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\intfDisplayElement.pas</Transaction>
+    <Transaction>2025/07/03 17:00:04.164,C:\Users\END-USER\Documents\Design Pattern Training\Observer Pattern\Project1.dproj=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>

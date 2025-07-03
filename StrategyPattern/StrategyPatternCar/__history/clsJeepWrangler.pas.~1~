@@ -1,0 +1,20 @@
+unit clsJeepWrangler;
+
+interface
+uses clsCar;
+
+type
+  TJeepWrangler = class(TCar)
+
+    public
+      procedure DisplayCar();override;
+  end;
+
+implementation
+
+procedure TJeepWrangler.DisplayCar();
+begin
+  Writeln('I am a Jeep Wrangler');
+end;
+
+end.

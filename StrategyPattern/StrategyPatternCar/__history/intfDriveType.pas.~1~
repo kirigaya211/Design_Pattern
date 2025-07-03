@@ -1,0 +1,13 @@
+unit intfDriveType;
+
+interface
+
+type
+  IDriveType = interface
+
+  procedure driveType();
+  end;
+
+implementation
+
+end.

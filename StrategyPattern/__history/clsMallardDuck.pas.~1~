@@ -1,0 +1,28 @@
+unit clsMallardDuck;
+
+interface
+uses clsDuck,clsFlyWithWings, clsQuack;
+
+type
+  TMallardDuck = class(TDuck)
+
+    public
+      constructor Create;
+//      procedure Display();override;
+  end;
+
+implementation
+
+constructor TMallardDuck.Create;
+begin
+  inherited;
+  FFlyBehavior := TFlyWithWings.Create;
+  FQuackBehavior := TQuack.Create;
+end;
+
+//procedure TMallardDuck.Display();
+//begin
+//  Writeln('I am a Mallard Duck');
+//end;
+
+end.

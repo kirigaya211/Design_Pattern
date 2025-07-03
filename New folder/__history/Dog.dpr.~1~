@@ -3,9 +3,7 @@ program Dog;
 uses
   Vcl.Forms,
   Dog_p in 'Dog_p.pas' {frmDogDetails},
-  clsDog_u in 'clsDog_u.pas',
-  clsLearner in 'clsLearner.pas',
-  Unit1 in 'Unit1.pas';
+  clsDog_u in 'clsDog_u.pas';
 
 {$R *.res}
 

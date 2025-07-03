@@ -1,9 +1,12 @@
 ﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
     <PropertyGroup>
-        <ProjectGuid>{30CECBB4-21A5-4B4C-A8A2-56825510C5C8}</ProjectGuid>
+        <ProjectGuid>{8BD6021A-AD3F-4C98-88E2-D000D16EBE91}</ProjectGuid>
     </PropertyGroup>
     <ItemGroup>
-        <Projects Include="StrategyPatternp.dproj">
+        <Projects Include="StrategyPatternDuck_p.dproj">
+            <Dependencies/>
+        </Projects>
+        <Projects Include="StrategyPattenCar\StrategyPatternCar_p.dproj">
             <Dependencies/>
         </Projects>
     </ItemGroup>
@@ -14,23 +17,32 @@
             <Default.Personality/>
         </BorlandProject>
     </ProjectExtensions>
-    <Target Name="StrategyPatternp">
-        <MSBuild Projects="StrategyPatternp.dproj"/>
+    <Target Name="StrategyPatternDuck_p">
+        <MSBuild Projects="StrategyPatternDuck_p.dproj"/>
     </Target>
-    <Target Name="StrategyPatternp:Clean">
-        <MSBuild Projects="StrategyPatternp.dproj" Targets="Clean"/>
+    <Target Name="StrategyPatternDuck_p:Clean">
+        <MSBuild Projects="StrategyPatternDuck_p.dproj" Targets="Clean"/>
     </Target>
-    <Target Name="StrategyPatternp:Make">
-        <MSBuild Projects="StrategyPatternp.dproj" Targets="Make"/>
+    <Target Name="StrategyPatternDuck_p:Make">
+        <MSBuild Projects="StrategyPatternDuck_p.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="StrategyPatternCar_p">
+        <MSBuild Projects="StrategyPattenCar\StrategyPatternCar_p.dproj"/>
+    </Target>
+    <Target Name="StrategyPatternCar_p:Clean">
+        <MSBuild Projects="StrategyPattenCar\StrategyPatternCar_p.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="StrategyPatternCar_p:Make">
+        <MSBuild Projects="StrategyPattenCar\StrategyPatternCar_p.dproj" Targets="Make"/>
     </Target>
     <Target Name="Build">
-        <CallTarget Targets="StrategyPatternp"/>
+        <CallTarget Targets="StrategyPatternDuck_p;StrategyPatternCar_p"/>
     </Target>
     <Target Name="Clean">
-        <CallTarget Targets="StrategyPatternp:Clean"/>
+        <CallTarget Targets="StrategyPatternDuck_p:Clean;StrategyPatternCar_p:Clean"/>
     </Target>
     <Target Name="Make">
-        <CallTarget Targets="StrategyPatternp:Make"/>
+        <CallTarget Targets="StrategyPatternDuck_p:Make;StrategyPatternCar_p:Make"/>
     </Target>
     <Import Project="$(BDS)\Bin\CodeGear.Group.Targets" Condition="Exists('$(BDS)\Bin\CodeGear.Group.Targets')"/>
 </Project>

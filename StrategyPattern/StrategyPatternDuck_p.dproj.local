@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2025/07/03 13:10:23.000.395,=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025/07/03 13:10:36.000.007,C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\clsDuck.pas</Transaction>
+    <Transaction>2025/07/03 13:14:38.000.665,=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025/07/03 13:21:50.000.006,C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\intfFlyBehavior.pas</Transaction>
+    <Transaction>2025/07/03 13:22:00.000.234,=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025/07/03 13:22:23.000.164,C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\clsFlyWithWings.pas</Transaction>
+    <Transaction>2025/07/03 13:28:34.000.749,=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025/07/03 13:28:54.000.023,C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\intfFlyNoWay.pas</Transaction>
+    <Transaction>2025/07/03 13:29:12.000.507,C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\intfFlyNoWay.pas=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\clsFlyNoWay.pas</Transaction>
+    <Transaction>2025/07/03 13:38:46.000.517,=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025/07/03 13:39:00.000.318,C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\intfQuackBehavior.pas</Transaction>
+    <Transaction>2025/07/03 13:39:35.000.830,=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025/07/03 13:40:01.000.772,C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\clsQuack.pas</Transaction>
+    <Transaction>2025/07/03 13:42:48.000.621,=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025/07/03 13:43:03.000.928,C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\clsSqueak.pas</Transaction>
+    <Transaction>2025/07/03 13:49:36.000.116,=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025/07/03 13:49:53.000.334,C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\clsMallardDuck.pas</Transaction>
+    <Transaction>2025/07/03 14:11:39.000.489,=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025/07/03 14:11:52.000.818,C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\TestingDuck.pas</Transaction>
+    <Transaction>2025/07/03 14:29:56.000.740,C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\intfQuackBehavior.pas=C:\Users\END-USER\Documents\Design Pattern Training\StrategyPattern\intfQuackBehavior.pas</Transaction>
+    <Transaction>2025/07/03 14:30:04.000.501,C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\clsSqueak.pas=C:\Users\END-USER\Documents\Design Pattern Training\StrategyPattern\clsSqueak.pas</Transaction>
+    <Transaction>2025/07/03 14:30:12.000.468,C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\clsDuck.pas=C:\Users\END-USER\Documents\Design Pattern Training\StrategyPattern\clsDuck.pas</Transaction>
+    <Transaction>2025/07/03 14:30:18.000.343,C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\clsMallardDuck.pas=C:\Users\END-USER\Documents\Design Pattern Training\StrategyPattern\clsMallardDuck.pas</Transaction>
+    <Transaction>2025/07/03 14:30:38.000.009,C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\clsQuack.pas=C:\Users\END-USER\Documents\Design Pattern Training\StrategyPattern\clsQuack.pas</Transaction>
+    <Transaction>2025/07/03 14:30:45.000.860,C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\intfFlyBehavior.pas=C:\Users\END-USER\Documents\Design Pattern Training\StrategyPattern\intfFlyBehavior.pas</Transaction>
+    <Transaction>2025/07/03 14:31:28.000.313,C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\clsFlyWithWings.pas=C:\Users\END-USER\Documents\Design Pattern Training\StrategyPattern\clsFlyWithWings.pas</Transaction>
+    <Transaction>2025/07/03 14:31:35.000.029,C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\clsFlyNoWay.pas=C:\Users\END-USER\Documents\Design Pattern Training\StrategyPattern\clsFlyNoWay.pas</Transaction>
+    <Transaction>2025/07/03 14:32:09.000.713,C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\END-USER\Documents\Design Pattern Training\StrategyPattern\StrategyPatternDuck_p.dproj</Transaction>
+  </Transactions>
+</BorlandProject>

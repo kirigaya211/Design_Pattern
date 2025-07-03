@@ -1,0 +1,29 @@
+unit clsCar;
+
+interface
+uses intfDriveType;
+
+type
+  TCar = class(TObject)
+
+  protected
+    FDriveType: IDriveType;
+
+  public
+    procedure DisplayCar(); virtual;
+    procedure displayType();
+  end;
+
+implementation
+
+procedure TCar.DisplayCar();
+begin
+  Writeln('A car with a Four Wheels');
+end;
+
+procedure TCar.displayType();
+begin
+  FDriveType.driveType;
+end;
+
+end.
