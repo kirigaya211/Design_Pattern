@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2025/07/06 20:47:08.467,D:\Arzenal\Documents\Embarcadero\Studio\Projects\DecorativePatternExample.dproj=D:\Arzenal\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2025/07/06 20:47:13.116,=D:\Arzenal\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025/07/06 21:06:05.649,D:\Arzenal\Documents\Embarcadero\Studio\Projects\clsGun.pas=D:\Arzenal\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025/07/06 21:06:11.876,=D:\Arzenal\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025/07/06 21:22:35.416,D:\Arzenal\Documents\Embarcadero\Studio\Projects\clsGlock.pas=D:\Arzenal\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025/07/06 21:22:40.843,=D:\Arzenal\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025/07/07 00:02:45.641,D:\Arzenal\Documents\Embarcadero\Studio\Projects\ADecorator.pas=D:\Arzenal\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025/07/07 00:02:55.677,D:\Arzenal\Documents\Embarcadero\Studio\Projects\ABehaviorDecorator.pas=D:\Arzenal\Documents\Embarcadero\Studio\Projects\ADecorator.pas</Transaction>
+    <Transaction>2025/07/07 00:03:02.119,=D:\Arzenal\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025/07/07 00:03:19.959,D:\Arzenal\Documents\Embarcadero\Studio\Projects\clsSilencer.pas=D:\Arzenal\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025/07/07 00:40:44.859,D:\Arzenal\Documents\GitHub\Design_Pattern\DecorativePattern\DecorativePatternExample\clsSilencer.pas=D:\Arzenal\Documents\Embarcadero\Studio\Projects\clsSilencer.pas</Transaction>
+    <Transaction>2025/07/07 00:40:49.037,D:\Arzenal\Documents\GitHub\Design_Pattern\DecorativePattern\DecorativePatternExample\clsGun.pas=D:\Arzenal\Documents\Embarcadero\Studio\Projects\clsGun.pas</Transaction>
+    <Transaction>2025/07/07 00:40:52.044,D:\Arzenal\Documents\GitHub\Design_Pattern\DecorativePattern\DecorativePatternExample\clsGlock.pas=D:\Arzenal\Documents\Embarcadero\Studio\Projects\clsGlock.pas</Transaction>
+    <Transaction>2025/07/07 00:40:55.726,D:\Arzenal\Documents\GitHub\Design_Pattern\DecorativePattern\DecorativePatternExample\ABehaviorDecorator.pas=D:\Arzenal\Documents\Embarcadero\Studio\Projects\ABehaviorDecorator.pas</Transaction>
+    <Transaction>2025/07/07 00:41:02.359,D:\Arzenal\Documents\GitHub\Design_Pattern\DecorativePattern\DecorativePatternExample\DecorativePatternExample.dproj=D:\Arzenal\Documents\Embarcadero\Studio\Projects\DecorativePatternExample.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
