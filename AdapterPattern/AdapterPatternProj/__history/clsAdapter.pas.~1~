@@ -1,14 +1,14 @@
 unit clsAdapter;
 
 interface
-uses intfNewTarget, intfOldTarget, System.SysUtils;
+uses clsNewTarget, intfOldTarget, System.SysUtils;
 
 type
   TAdapter = class(TInterfacedObject, IOldTarget)
     private
-      FNewTarget: INewTarget;
+      FNewTarget: TNewTarget;
     public
-      constructor Create(ANewTarget: INewTarget);
+      constructor Create(ANewTarget: TNewTarget);
       procedure OldStartUp(ACommand: Integer);
   end;
 
@@ -16,7 +16,7 @@ implementation
 
 { TAdapter }
 
-constructor TAdapter.Create(ANewTarget: INewTarget);
+constructor TAdapter.Create(ANewTarget: TNewTarget);
 begin
   FNewTarget:= ANewTarget;
 end;
