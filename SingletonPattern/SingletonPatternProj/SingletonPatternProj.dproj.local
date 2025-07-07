@@ -1,10 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <BorlandProject>
-  <Transactions>
-    <Transaction>2025/07/07 09:18:23.994,C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\SingletonPatternProj.dproj=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
-    <Transaction>2025/07/07 09:18:29.665,=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
-    <Transaction>2025/07/07 09:18:36.747,C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\clsLog.pas=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
-    <Transaction>2025/07/07 14:19:29.582,C:\Users\END-USER\Documents\Design Pattern Training\SingletonPattern\SingletonPatternProj\clsLog.pas=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\clsLog.pas</Transaction>
-    <Transaction>2025/07/07 14:19:35.530,C:\Users\END-USER\Documents\Design Pattern Training\SingletonPattern\SingletonPatternProj\SingletonPatternProj.dproj=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\SingletonPatternProj.dproj</Transaction>
+	<Transactions>
+    <Transaction>2025/07/07 09:18:23.000.994,C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\SingletonPatternProj.dproj</Transaction>
+    <Transaction>2025/07/07 09:18:29.000.665,=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025/07/07 09:18:36.000.747,C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\clsLog.pas</Transaction>
+    <Transaction>2025/07/07 14:19:29.000.582,C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\clsLog.pas=C:\Users\END-USER\Documents\Design Pattern Training\SingletonPattern\SingletonPatternProj\clsLog.pas</Transaction>
+    <Transaction>2025/07/07 14:19:35.000.530,C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\SingletonPatternProj.dproj=C:\Users\END-USER\Documents\Design Pattern Training\SingletonPattern\SingletonPatternProj\SingletonPatternProj.dproj</Transaction>
   </Transactions>
 </BorlandProject>
