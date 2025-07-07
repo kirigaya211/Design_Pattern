@@ -1,0 +1,98 @@
+unit clsWeatherData;
+
+interface
+uses intfSubject,intfObserver, System.Generics.Collections, System.SysUtils;
+
+type
+  TWeatherData = class(TInterfacedObject, ISubject)
+
+  private
+    FObservers: TList<IObserver>;
+    FTemperature: Double;
+    FHumidity: Double;
+    FPressure: Double;
+
+  public
+    constructor Create(ATemperature: Double; AHumidity: Double; APressure: Double);
+    procedure registerObserver(AObserver: IObserver);
+    procedure removeObserver(AObserver: IObserver);
+    procedure notifyObserver;
+    function getTemperature: Double;
+    function getHumidity: Double;
+    function getPressure: Double;
+    procedure setTemperature(ATemperature: Double);
+    procedure setHumidity(AHumidity: Double);
+    procedure setPressure(APressure: Double);
+    procedure measurementChanged;
+
+  end;
+
+implementation
+
+constructor TWeatherData.Create(ATemperature: Double; AHumidity: Double; APressure: Double);
+begin
+  FObservers := TList<IObserver>.Create;
+  FTemperature:= ATemperature;
+  FHumidity:= AHumidity;
+  FPressure:= APressure;
+
+end;
+
+function TWeatherData.getHumidity: Double;
+begin
+  Result:= FHumidity;
+end;
+
+function TWeatherData.getPressure: Double;
+begin
+  Result:= FHumidity;
+end;
+
+function TWeatherData.getTemperature: Double;
+begin
+  Result:= FHumidity;
+end;
+
+procedure TWeatherData.measurementChanged;
+begin
+  notifyObserver();
+end;
+
+procedure TWeatherData.notifyObserver;
+var
+  Obs: IObserver;
+begin
+  for Obs in FObservers  do
+    Obs.update;
+end;
+
+procedure TWeatherData.registerObserver(AObserver: IObserver);
+begin
+  if FObservers.Contains(AObserver) then
+    FObservers.Add(AObserver);
+end;
+
+procedure TWeatherData.removeObserver(AObserver: IObserver);
+begin
+  FObservers.Remove(AObserver);
+end;
+
+procedure TWeatherData.setHumidity(AHumidity: Double);
+begin
+  FHumidity:= AHumidity;
+  measurementChanged;
+end;
+
+procedure TWeatherData.setPressure(APressure: Double);
+begin
+  FPressure:= APressure;
+  measurementChanged;
+end;
+
+procedure TWeatherData.setTemperature(ATemperature: Double);
+begin
+  FTemperature:= ATemperature;
+  measurementChanged;
+end;
+
+end.

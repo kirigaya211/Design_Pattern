@@ -1,0 +1,33 @@
+program  ;
+
+{$APPTYPE CONSOLE}
+
+{$R *.res}
+
+uses
+  System.SysUtils,
+  intfSubject in 'intfSubject.pas',
+  clsWeatherData in 'clsWeatherData.pas',
+  intfObserver in 'intfObserver.pas',
+  intfDisplayElement in 'intfDisplayElement.pas',
+  clsCurrentConditionDisplay in 'clsCurrentConditionDisplay.pas',
+  clsStaticsDisplay in 'clsStaticsDisplay.pas',
+  clsThirdPartyDisplay in 'clsThirdPartyDisplay.pas',
+  clsForecastDisplay in 'clsForecastDisplay.pas';
+
+
+var
+  WeatherData: TWeatherData;
+  DisplayCondition: TCurrentConditionDisplay;
+
+begin
+  try
+    WeatherData := WeatherData.Create(28,40.6, 10.1);
+    DisplayCondition := DisplayCondition.Create(WeatherData);
+    WeatherData.registerObserver(DisplayCondition);
+    DisplayCondition.display;
+  except
+    on E: Exception do
+      Writeln(E.ClassName, ': ', E.Message);
+  end;
+end.

@@ -1,0 +1,72 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+    <PropertyGroup>
+        <ProjectGuid>{36CA1F65-C748-4F29-AAB6-3D98515FBB32}</ProjectGuid>
+    </PropertyGroup>
+    <ItemGroup>
+        <Projects Include="SingletonPattern_p.dproj">
+            <Dependencies/>
+        </Projects>
+        <Projects Include="SingletonPatternProj\SingletonPatternProj.dproj">
+            <Dependencies/>
+        </Projects>
+        <Projects Include="..\CommandPattern\CommandPatternGroup\CommandPattern_p.dproj">
+            <Dependencies/>
+        </Projects>
+        <Projects Include="..\AdapterPattern\AdapterPatternProj\AdapterPatternProj.dproj">
+            <Dependencies/>
+        </Projects>
+    </ItemGroup>
+    <ProjectExtensions>
+        <Borland.Personality>Default.Personality.12</Borland.Personality>
+        <Borland.ProjectType/>
+        <BorlandProject>
+            <Default.Personality/>
+        </BorlandProject>
+    </ProjectExtensions>
+    <Target Name="SingletonPattern_p">
+        <MSBuild Projects="SingletonPattern_p.dproj"/>
+    </Target>
+    <Target Name="SingletonPattern_p:Clean">
+        <MSBuild Projects="SingletonPattern_p.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="SingletonPattern_p:Make">
+        <MSBuild Projects="SingletonPattern_p.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="SingletonPatternProj">
+        <MSBuild Projects="SingletonPatternProj\SingletonPatternProj.dproj"/>
+    </Target>
+    <Target Name="SingletonPatternProj:Clean">
+        <MSBuild Projects="SingletonPatternProj\SingletonPatternProj.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="SingletonPatternProj:Make">
+        <MSBuild Projects="SingletonPatternProj\SingletonPatternProj.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="CommandPattern_p">
+        <MSBuild Projects="..\CommandPattern\CommandPatternGroup\CommandPattern_p.dproj"/>
+    </Target>
+    <Target Name="CommandPattern_p:Clean">
+        <MSBuild Projects="..\CommandPattern\CommandPatternGroup\CommandPattern_p.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="CommandPattern_p:Make">
+        <MSBuild Projects="..\CommandPattern\CommandPatternGroup\CommandPattern_p.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="AdapterPatternProj">
+        <MSBuild Projects="..\AdapterPattern\AdapterPatternProj\AdapterPatternProj.dproj"/>
+    </Target>
+    <Target Name="AdapterPatternProj:Clean">
+        <MSBuild Projects="..\AdapterPattern\AdapterPatternProj\AdapterPatternProj.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="AdapterPatternProj:Make">
+        <MSBuild Projects="..\AdapterPattern\AdapterPatternProj\AdapterPatternProj.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="Build">
+        <CallTarget Targets="SingletonPattern_p;SingletonPatternProj;CommandPattern_p;AdapterPatternProj"/>
+    </Target>
+    <Target Name="Clean">
+        <CallTarget Targets="SingletonPattern_p:Clean;SingletonPatternProj:Clean;CommandPattern_p:Clean;AdapterPatternProj:Clean"/>
+    </Target>
+    <Target Name="Make">
+        <CallTarget Targets="SingletonPattern_p:Make;SingletonPatternProj:Make;CommandPattern_p:Make;AdapterPatternProj:Make"/>
+    </Target>
+    <Import Project="$(BDS)\Bin\CodeGear.Group.Targets" Condition="Exists('$(BDS)\Bin\CodeGear.Group.Targets')"/>
+</Project>

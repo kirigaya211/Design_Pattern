@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2025/07/07 13:53:00.640,C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\CommandPattern_p.dproj=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2025/07/07 13:53:06.526,=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025/07/07 13:54:10.774,=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2025/07/07 13:54:21.834,C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\intfCommand.pas=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025/07/07 13:54:36.177,C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\clsLight.pas=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2025/07/07 13:56:21.972,=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025/07/07 14:02:08.878,C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\clsLightOnCommand.pas=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025/07/07 14:02:18.557,=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025/07/07 14:02:33.586,C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\clsLightOffCommand.pas=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025/07/07 14:05:44.082,=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025/07/07 14:09:07.019,=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2025/07/07 14:09:18.320,C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\clsRemoteControl.pas=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025/07/07 14:18:26.945,C:\Users\END-USER\Documents\Design Pattern Training\CommandPattern\CommandPatternGroup\intfCommand.pas=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\intfCommand.pas</Transaction>
+    <Transaction>2025/07/07 14:18:34.801,C:\Users\END-USER\Documents\Design Pattern Training\CommandPattern\CommandPatternGroup\clsRemoteControl.pas=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\clsRemoteControl.pas</Transaction>
+    <Transaction>2025/07/07 14:18:38.837,C:\Users\END-USER\Documents\Design Pattern Training\CommandPattern\CommandPatternGroup\clsLightOnCommand.pas=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\clsLightOnCommand.pas</Transaction>
+    <Transaction>2025/07/07 14:18:43.311,C:\Users\END-USER\Documents\Design Pattern Training\CommandPattern\CommandPatternGroup\clsLightOffCommand.pas=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\clsLightOffCommand.pas</Transaction>
+    <Transaction>2025/07/07 14:18:47.344,C:\Users\END-USER\Documents\Design Pattern Training\CommandPattern\CommandPatternGroup\clsLight.pas=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\clsLight.pas</Transaction>
+    <Transaction>2025/07/07 14:18:54.156,C:\Users\END-USER\Documents\Design Pattern Training\CommandPattern\CommandPatternGroup\CommandPattern_p.dproj=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\CommandPattern_p.dproj</Transaction>
+  </Transactions>
+</BorlandProject>

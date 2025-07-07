@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2025/07/07 15:13:16.988,=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025/07/07 15:13:32.780,C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\AdapterPattern.dproj=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2025/07/07 15:13:49.974,C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\AdapterPatternProj.dproj=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\AdapterPattern.dproj</Transaction>
+    <Transaction>2025/07/07 15:20:09.526,C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\intfNewTarget.pas=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025/07/07 15:20:17.573,=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025/07/07 15:22:45.566,C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\clsNewTarget.pas=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025/07/07 15:22:57.140,=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025/07/07 15:23:17.418,C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\intfOldTarget.pas=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025/07/07 15:24:33.140,=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025/07/07 15:29:25.345,=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2025/07/07 15:29:47.284,C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\clsOldTarget.pas=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025/07/07 15:29:54.628,C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\Adapter.pas=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2025/07/07 15:30:05.771,C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\clsAdapter.pas=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\Adapter.pas</Transaction>
+    <Transaction>2025/07/07 15:57:35.639,C:\Users\END-USER\Documents\Design Pattern Training\AdapterPattern\AdapterPatternProj\intfOldTarget.pas=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\intfOldTarget.pas</Transaction>
+    <Transaction>2025/07/07 15:57:40.009,C:\Users\END-USER\Documents\Design Pattern Training\AdapterPattern\AdapterPatternProj\clsOldTarget.pas=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\clsOldTarget.pas</Transaction>
+    <Transaction>2025/07/07 15:57:46.218,C:\Users\END-USER\Documents\Design Pattern Training\AdapterPattern\AdapterPatternProj\clsAdapter.pas=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\clsAdapter.pas</Transaction>
+    <Transaction>2025/07/07 15:57:48.095,C:\Users\END-USER\Documents\Design Pattern Training\AdapterPattern\AdapterPatternProj\clsNewTarget.pas=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\clsNewTarget.pas</Transaction>
+    <Transaction>2025/07/07 15:57:53.170,C:\Users\END-USER\Documents\Design Pattern Training\AdapterPattern\AdapterPatternProj\intfNewTarget.pas=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\intfNewTarget.pas</Transaction>
+    <Transaction>2025/07/07 15:57:55.494,C:\Users\END-USER\Documents\Design Pattern Training\AdapterPattern\AdapterPatternProj\AdapterPatternProj.dproj=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\AdapterPatternProj.dproj</Transaction>
+  </Transactions>
+</BorlandProject>

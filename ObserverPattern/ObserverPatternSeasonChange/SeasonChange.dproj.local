@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2025/07/04 10:18:26.875,C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\SeasonChange.dproj=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2025/07/04 10:18:33.486,=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025/07/04 10:18:51.183,C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\intfSubject.pas=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025/07/04 10:20:28.239,=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025/07/04 10:20:47.824,C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\clsSeasonChange.pas=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025/07/04 10:28:19.607,=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025/07/04 10:28:34.162,C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\intfObserver.pas=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025/07/04 10:51:17.560,=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025/07/04 10:51:33.959,C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\clsDiscount.pas=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025/07/04 11:39:11.480,C:\Users\END-USER\Documents\Design Pattern Training\Observer Pattern\ObserverPatternSeasonChange\intfSubject.pas=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\intfSubject.pas</Transaction>
+    <Transaction>2025/07/04 11:39:16.808,C:\Users\END-USER\Documents\Design Pattern Training\Observer Pattern\ObserverPatternSeasonChange\intfObserver.pas=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\intfObserver.pas</Transaction>
+    <Transaction>2025/07/04 11:39:22.030,C:\Users\END-USER\Documents\Design Pattern Training\Observer Pattern\ObserverPatternSeasonChange\clsSeasonChange.pas=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\clsSeasonChange.pas</Transaction>
+    <Transaction>2025/07/04 11:39:26.103,C:\Users\END-USER\Documents\Design Pattern Training\Observer Pattern\ObserverPatternSeasonChange\clsDiscount.pas=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\clsDiscount.pas</Transaction>
+    <Transaction>2025/07/04 11:39:32.706,C:\Users\END-USER\Documents\Design Pattern Training\Observer Pattern\ObserverPatternSeasonChange\SeasonChange.dproj=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\SeasonChange.dproj</Transaction>
+  </Transactions>
+</BorlandProject>

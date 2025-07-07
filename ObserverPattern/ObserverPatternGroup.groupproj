@@ -1,0 +1,48 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+    <PropertyGroup>
+        <ProjectGuid>{6E54DE6E-AA75-4C0D-8B79-60C56F0D64F3}</ProjectGuid>
+    </PropertyGroup>
+    <ItemGroup>
+        <Projects Include="ObserverPattern_p.dproj">
+            <Dependencies/>
+        </Projects>
+        <Projects Include="ObserverPatternSeasonChange\SeasonChange.dproj">
+            <Dependencies/>
+        </Projects>
+    </ItemGroup>
+    <ProjectExtensions>
+        <Borland.Personality>Default.Personality.12</Borland.Personality>
+        <Borland.ProjectType/>
+        <BorlandProject>
+            <Default.Personality/>
+        </BorlandProject>
+    </ProjectExtensions>
+    <Target Name="ObserverPattern_p">
+        <MSBuild Projects="ObserverPattern_p.dproj"/>
+    </Target>
+    <Target Name="ObserverPattern_p:Clean">
+        <MSBuild Projects="ObserverPattern_p.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="ObserverPattern_p:Make">
+        <MSBuild Projects="ObserverPattern_p.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="SeasonChange">
+        <MSBuild Projects="ObserverPatternSeasonChange\SeasonChange.dproj"/>
+    </Target>
+    <Target Name="SeasonChange:Clean">
+        <MSBuild Projects="ObserverPatternSeasonChange\SeasonChange.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="SeasonChange:Make">
+        <MSBuild Projects="ObserverPatternSeasonChange\SeasonChange.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="Build">
+        <CallTarget Targets="ObserverPattern_p;SeasonChange"/>
+    </Target>
+    <Target Name="Clean">
+        <CallTarget Targets="ObserverPattern_p:Clean;SeasonChange:Clean"/>
+    </Target>
+    <Target Name="Make">
+        <CallTarget Targets="ObserverPattern_p:Make;SeasonChange:Make"/>
+    </Target>
+    <Import Project="$(BDS)\Bin\CodeGear.Group.Targets" Condition="Exists('$(BDS)\Bin\CodeGear.Group.Targets')"/>
+</Project>

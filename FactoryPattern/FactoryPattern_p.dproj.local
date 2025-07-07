@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2025/07/04 14:15:16.257,C:\Users\END-USER\Documents\Design Pattern Training\FactoryPattern\FactoryPattern_p.dproj=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2025/07/04 14:17:32.480,=C:\Users\END-USER\Documents\Design Pattern Training\FactoryPattern\Unit1.pas</Transaction>
+    <Transaction>2025/07/04 14:17:47.733,C:\Users\END-USER\Documents\Design Pattern Training\FactoryPattern\clsPizzaStore.pas=C:\Users\END-USER\Documents\Design Pattern Training\FactoryPattern\Unit1.pas</Transaction>
+    <Transaction>2025/07/04 14:19:33.020,=C:\Users\END-USER\Documents\Design Pattern Training\FactoryPattern\Unit1.pas</Transaction>
+    <Transaction>2025/07/04 14:19:56.535,C:\Users\END-USER\Documents\Design Pattern Training\FactoryPattern\clsSimplePizzaFactory.pas=C:\Users\END-USER\Documents\Design Pattern Training\FactoryPattern\Unit1.pas</Transaction>
+    <Transaction>2025/07/04 14:20:51.444,=C:\Users\END-USER\Documents\Design Pattern Training\FactoryPattern\Unit1.pas</Transaction>
+    <Transaction>2025/07/04 14:20:59.059,C:\Users\END-USER\Documents\Design Pattern Training\FactoryPattern\clsPizza.pas=C:\Users\END-USER\Documents\Design Pattern Training\FactoryPattern\Unit1.pas</Transaction>
+    <Transaction>2025/07/04 14:23:55.628,=C:\Users\END-USER\Documents\Design Pattern Training\FactoryPattern\Unit1.pas</Transaction>
+    <Transaction>2025/07/04 14:24:10.203,C:\Users\END-USER\Documents\Design Pattern Training\FactoryPattern\clsCheesePizza.pas=C:\Users\END-USER\Documents\Design Pattern Training\FactoryPattern\Unit1.pas</Transaction>
+    <Transaction>2025/07/04 14:24:16.914,C:\Users\END-USER\Documents\Design Pattern Training\FactoryPattern\intfPizza.pas=C:\Users\END-USER\Documents\Design Pattern Training\FactoryPattern\clsPizza.pas</Transaction>
+    <Transaction>2025/07/04 14:27:24.595,C:\Users\END-USER\Documents\Design Pattern Training\FactoryPattern\clsPizza.pas=C:\Users\END-USER\Documents\Design Pattern Training\FactoryPattern\intfPizza.pas</Transaction>
+  </Transactions>
+</BorlandProject>

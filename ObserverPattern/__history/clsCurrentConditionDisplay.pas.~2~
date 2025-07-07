@@ -1,0 +1,43 @@
+unit clsCurrentConditionDisplay;
+
+interface
+
+uses intfObserver, intfDisplayElement, clsWeatherData, System.SysUtils;
+
+type
+  TCurrentConditionDisplay = class(TInterfacedObject, IObserver, IDisplayElement)
+    private
+      Temperature: Double;
+      Humidity: Double;
+      Pressure: Double;
+      WeatherData: TWeatherData;
+    public
+      constructor Create(AWeatherData: TWeatherData);
+      procedure update();
+      procedure display;
+  end;
+
+implementation
+
+{ TCurrentConditionDisplay }
+
+constructor TCurrentConditionDisplay.Create(AWeatherData: TWeatherData);
+begin
+  WeatherData:= AWeatherData;
+  WeatherData.registerObserver(Self);
+end;
+
+procedure TCurrentConditionDisplay.display;
+begin
+  Writeln('Current conditions:'+(FloatToStrF(Temperature, ffFixed,15,10))+'F degeress and '
+                                      +(FloatToStrF(Humidity, ffFixed,15,10))+'% humidity');
+end;
+
+procedure TCurrentConditionDisplay.update();
+begin
+  Temperature := WeatherData.getTemperature;
+  Humidity:= WeatherData.getHumidity;
+  Pressure:= WeatherData.getPressure;
+end;
+
+end.
