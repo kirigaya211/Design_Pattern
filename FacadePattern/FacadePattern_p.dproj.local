@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2025/07/08 09:43:40.598,=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025/07/08 09:43:52.963,C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\clsAmplifier.pas=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025/07/08 09:50:07.978,=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025/07/08 09:50:26.921,C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\clsDvdPlayer.pas=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025/07/08 10:14:25.015,=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025/07/08 10:16:00.782,=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2025/07/08 10:20:43.189,C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\ASwitching.pas=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2025/07/08 10:20:57.844,C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\ASwitch.pas=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\ASwitching.pas</Transaction>
+    <Transaction>2025/07/08 10:21:11.142,C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\clsTuner.pas=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025/07/08 10:35:35.420,C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\lntfSwitching.pas=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\ASwitch.pas</Transaction>
+    <Transaction>2025/07/08 10:39:18.144,C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\intfSwitching.pas=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\lntfSwitching.pas</Transaction>
+    <Transaction>2025/07/08 10:50:35.280,=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025/07/08 10:51:03.101,C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\clsAudio.pas=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025/07/08 10:52:44.530,=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025/07/08 10:53:08.994,C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\clsCdPlayer.pas=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025/07/08 10:58:41.629,=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025/07/08 10:58:54.854,C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\clsProjector.pas=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025/07/08 11:05:17.657,=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025/07/08 11:05:29.082,C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\clsTheaterLight.pas=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025/07/08 11:08:26.158,=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025/07/08 11:08:35.212,C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\clsScreen.pas=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025/07/08 11:11:20.373,=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025/07/08 11:11:35.395,C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\clsPopcornPopper.pas=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025/07/08 11:14:51.591,=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025/07/08 11:15:07.042,C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\HomeTheaterFacade.pas=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025/07/08 11:28:20.491,C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\clsTunering.pas=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\clsTuner.pas</Transaction>
+    <Transaction>2025/07/08 11:28:41.089,C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\clsTuner.pas=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\clsTunering.pas</Transaction>
+    <Transaction>2025/07/08 11:29:32.941,C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\clsTunering.pas=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\clsTuner.pas</Transaction>
+    <Transaction>2025/07/08 11:30:05.098,C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\clsTuner.pas=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\clsTunering.pas</Transaction>
+    <Transaction>2025/07/08 15:59:22.107,C:\Users\END-USER\Documents\Design Pattern Training\FacadePattern\HomeTheaterFacade.pas=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\HomeTheaterFacade.pas</Transaction>
+    <Transaction>2025/07/08 15:59:24.266,C:\Users\END-USER\Documents\Design Pattern Training\FacadePattern\clsTuner.pas=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\clsTuner.pas</Transaction>
+    <Transaction>2025/07/08 15:59:25.747,C:\Users\END-USER\Documents\Design Pattern Training\FacadePattern\clsPopcornPopper.pas=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\clsPopcornPopper.pas</Transaction>
+    <Transaction>2025/07/08 15:59:27.248,C:\Users\END-USER\Documents\Design Pattern Training\FacadePattern\clsScreen.pas=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\clsScreen.pas</Transaction>
+    <Transaction>2025/07/08 15:59:29.026,C:\Users\END-USER\Documents\Design Pattern Training\FacadePattern\clsTheaterLight.pas=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\clsTheaterLight.pas</Transaction>
+    <Transaction>2025/07/08 15:59:30.567,C:\Users\END-USER\Documents\Design Pattern Training\FacadePattern\clsProjector.pas=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\clsProjector.pas</Transaction>
+    <Transaction>2025/07/08 15:59:31.780,C:\Users\END-USER\Documents\Design Pattern Training\FacadePattern\clsCdPlayer.pas=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\clsCdPlayer.pas</Transaction>
+    <Transaction>2025/07/08 15:59:33.885,C:\Users\END-USER\Documents\Design Pattern Training\FacadePattern\clsDvdPlayer.pas=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\clsDvdPlayer.pas</Transaction>
+    <Transaction>2025/07/08 15:59:35.253,C:\Users\END-USER\Documents\Design Pattern Training\FacadePattern\clsAmplifier.pas=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\clsAmplifier.pas</Transaction>
+    <Transaction>2025/07/08 15:59:36.664,C:\Users\END-USER\Documents\Design Pattern Training\FacadePattern\clsAudio.pas=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\clsAudio.pas</Transaction>
+    <Transaction>2025/07/08 15:59:37.970,C:\Users\END-USER\Documents\Design Pattern Training\FacadePattern\intfSwitching.pas=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\intfSwitching.pas</Transaction>
+    <Transaction>2025/07/08 15:59:39.292,C:\Users\END-USER\Documents\Design Pattern Training\FacadePattern\Project1.dproj=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2025/07/08 16:00:06.089,C:\Users\END-USER\Documents\Design Pattern Training\FacadePattern\FacadePattern_p.dproj=C:\Users\END-USER\Documents\Design Pattern Training\FacadePattern\Project1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>

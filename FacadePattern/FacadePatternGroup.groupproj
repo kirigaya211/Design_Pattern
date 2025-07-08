@@ -1,0 +1,36 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+    <PropertyGroup>
+        <ProjectGuid>{8C78DD23-F7ED-473D-807D-4AA5D493CD3C}</ProjectGuid>
+    </PropertyGroup>
+    <ItemGroup>
+        <Projects Include="FacadePattern_p.dproj">
+            <Dependencies/>
+        </Projects>
+    </ItemGroup>
+    <ProjectExtensions>
+        <Borland.Personality>Default.Personality.12</Borland.Personality>
+        <Borland.ProjectType/>
+        <BorlandProject>
+            <Default.Personality/>
+        </BorlandProject>
+    </ProjectExtensions>
+    <Target Name="FacadePattern_p">
+        <MSBuild Projects="FacadePattern_p.dproj"/>
+    </Target>
+    <Target Name="FacadePattern_p:Clean">
+        <MSBuild Projects="FacadePattern_p.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="FacadePattern_p:Make">
+        <MSBuild Projects="FacadePattern_p.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="Build">
+        <CallTarget Targets="FacadePattern_p"/>
+    </Target>
+    <Target Name="Clean">
+        <CallTarget Targets="FacadePattern_p:Clean"/>
+    </Target>
+    <Target Name="Make">
+        <CallTarget Targets="FacadePattern_p:Make"/>
+    </Target>
+    <Import Project="$(BDS)\Bin\CodeGear.Group.Targets" Condition="Exists('$(BDS)\Bin\CodeGear.Group.Targets')"/>
+</Project>
