@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2025/07/09 09:44:24.068,=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025/07/09 09:44:33.724,C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\clsReport.pas=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025/07/09 09:48:47.510,=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025/07/09 09:49:09.537,C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\clsPDF.pas=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025/07/09 10:18:00.496,=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025/07/09 10:18:19.859,C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\clsDocument.pas=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025/07/09 10:26:22.366,C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\TemplatePropertyProj.dproj=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2025/07/09 10:39:50.852,C:\Users\END-USER\Documents\Design Pattern Training\TemplatePattern\TemplatePatternProj\clsDocument.pas=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\clsDocument.pas</Transaction>
+    <Transaction>2025/07/09 10:39:52.592,C:\Users\END-USER\Documents\Design Pattern Training\TemplatePattern\TemplatePatternProj\clsPDF.pas=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\clsPDF.pas</Transaction>
+    <Transaction>2025/07/09 10:39:54.231,C:\Users\END-USER\Documents\Design Pattern Training\TemplatePattern\TemplatePatternProj\clsReport.pas=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\clsReport.pas</Transaction>
+    <Transaction>2025/07/09 10:39:55.982,C:\Users\END-USER\Documents\Design Pattern Training\TemplatePattern\TemplatePatternProj\TemplatePropertyProj.dproj=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\TemplatePropertyProj.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
