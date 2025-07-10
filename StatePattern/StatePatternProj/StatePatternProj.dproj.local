@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2025/07/10 14:39:41.443,=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025/07/10 14:39:54.879,C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\clsGate.pas=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025/07/10 14:55:23.005,=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025/07/10 14:55:33.168,C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\intfPlayerState.pas=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025/07/10 14:59:23.871,=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025/07/10 15:01:31.144,=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2025/07/10 15:01:47.227,C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\clsPlayingState.pas=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025/07/10 15:02:07.191,C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\clsPausedState.pas=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2025/07/10 15:06:36.296,=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025/07/10 15:06:55.333,C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\clsStoppedState.pas=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025/07/10 15:08:51.807,C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\clsPlayer.pas=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\clsGate.pas</Transaction>
+    <Transaction>2025/07/10 15:12:16.381,C:\Users\END-USER\Documents\Design Pattern Training\StatePattern\StatePatternProj\clsPlayer.pas=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\clsPlayer.pas</Transaction>
+    <Transaction>2025/07/10 15:12:17.984,C:\Users\END-USER\Documents\Design Pattern Training\StatePattern\StatePatternProj\clsStoppedState.pas=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\clsStoppedState.pas</Transaction>
+    <Transaction>2025/07/10 15:12:19.322,C:\Users\END-USER\Documents\Design Pattern Training\StatePattern\StatePatternProj\clsPausedState.pas=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\clsPausedState.pas</Transaction>
+    <Transaction>2025/07/10 15:12:20.595,C:\Users\END-USER\Documents\Design Pattern Training\StatePattern\StatePatternProj\clsPlayingState.pas=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\clsPlayingState.pas</Transaction>
+    <Transaction>2025/07/10 15:12:21.889,C:\Users\END-USER\Documents\Design Pattern Training\StatePattern\StatePatternProj\intfPlayerState.pas=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\intfPlayerState.pas</Transaction>
+    <Transaction>2025/07/10 15:12:23.332,C:\Users\END-USER\Documents\Design Pattern Training\StatePattern\StatePatternProj\Project1.dproj=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2025/07/10 15:12:34.508,C:\Users\END-USER\Documents\Design Pattern Training\StatePattern\StatePatternProj\StatePatternProj.dproj=C:\Users\END-USER\Documents\Design Pattern Training\StatePattern\StatePatternProj\Project1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
