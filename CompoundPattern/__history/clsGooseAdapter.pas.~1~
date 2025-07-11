@@ -3,11 +3,11 @@ unit clsGooseAdapter;
 interface
 uses intfQuackable, clsGeese;
 type
-  TGooseAdapter = class(TInterfacedObject, IQuackable)
+  GooseAdapter = class(TInterfacedObject, IQuackable)
     private
-      FGoose: TGooseDuck;
+      FGoose: TGoose;
     public
-      constructor Create(AGoose: TGooseDuck);
+      constructor Create(AGoose: TGoose);
       procedure Quack;
   end;
 
@@ -15,12 +15,12 @@ implementation
 
 { GooseAdapter }
 
-constructor TGooseAdapter.Create(AGoose: TGooseDuck);
+constructor GooseAdapter.Create(AGoose: TGoose);
 begin
   FGoose:= AGoose;
 end;
 
-procedure TGooseAdapter.Quack;
+procedure GooseAdapter.Quack;
 begin
   FGoose.Honk;
 end;

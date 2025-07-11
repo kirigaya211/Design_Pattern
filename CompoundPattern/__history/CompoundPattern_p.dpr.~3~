@@ -14,17 +14,12 @@ uses
   clsRubberDuck in 'clsRubberDuck.pas',
   clsGeese in 'clsGeese.pas',
   clsGooseAdapter in 'clsGooseAdapter.pas',
-  clsSimulate in 'clsSimulate.pas',
-  clsQuackCounter in 'clsQuackCounter.pas';
+  clsSimulate in 'clsSimulate.pas';
 
 var Simulate: TSimulate;
 begin
   try
     Simulate:= TSimulate.Create;
-    Simulate.Simulation;
-
-
-    Readln;
   except
     on E: Exception do
 

@@ -3,7 +3,7 @@ unit clsGeese;
 interface
 
 type
-  TGoose = class
+  TGooseDuck = class
     public
       procedure Honk;
   end;
@@ -12,7 +12,7 @@ implementation
 
 { TGoose }
 
-procedure TGoose.Honk;
+procedure TGooseDuck.Honk;
 begin
   Writeln('Honk');
 end;

@@ -1,31 +1,33 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <BorlandProject>
-  <Transactions>
-    <Transaction>2025/07/11 13:26:37.563,=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
-    <Transaction>2025/07/11 13:26:53.159,C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\intfQuackable.pas=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
-    <Transaction>2025/07/11 13:30:43.023,=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
-    <Transaction>2025/07/11 13:32:48.511,=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
-    <Transaction>2025/07/11 13:33:59.582,C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\clsRedHeadDuck.pas=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
-    <Transaction>2025/07/11 13:34:14.280,C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\clsMallardDuck.pas=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
-    <Transaction>2025/07/11 13:39:02.936,=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
-    <Transaction>2025/07/11 13:40:01.036,C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\clsDuckCall.pas=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
-    <Transaction>2025/07/11 13:41:58.546,=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
-    <Transaction>2025/07/11 13:44:41.539,C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\clsRubberDuck.pas=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
-    <Transaction>2025/07/11 13:45:23.254,=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
-    <Transaction>2025/07/11 13:45:58.582,C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\clsGeese.pas=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
-    <Transaction>2025/07/11 13:47:19.757,=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
-    <Transaction>2025/07/11 13:50:31.787,C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\clsGooseAdapter.pas=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
-    <Transaction>2025/07/11 13:52:28.941,=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
-    <Transaction>2025/07/11 13:57:11.036,C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\clsSimulate.pas=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
-    <Transaction>2025/07/11 14:00:29.643,C:\Users\END-USER\Documents\Design Pattern Training\CompoundPattern\clsSimulate.pas=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\clsSimulate.pas</Transaction>
-    <Transaction>2025/07/11 14:00:31.264,C:\Users\END-USER\Documents\Design Pattern Training\CompoundPattern\clsRubberDuck.pas=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\clsRubberDuck.pas</Transaction>
-    <Transaction>2025/07/11 14:00:32.891,C:\Users\END-USER\Documents\Design Pattern Training\CompoundPattern\clsDuckCall.pas=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\clsDuckCall.pas</Transaction>
-    <Transaction>2025/07/11 14:00:34.306,C:\Users\END-USER\Documents\Design Pattern Training\CompoundPattern\clsGooseAdapter.pas=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\clsGooseAdapter.pas</Transaction>
-    <Transaction>2025/07/11 14:00:35.779,C:\Users\END-USER\Documents\Design Pattern Training\CompoundPattern\clsGeese.pas=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\clsGeese.pas</Transaction>
-    <Transaction>2025/07/11 14:00:37.149,C:\Users\END-USER\Documents\Design Pattern Training\CompoundPattern\clsRedHeadDuck.pas=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\clsRedHeadDuck.pas</Transaction>
-    <Transaction>2025/07/11 14:00:38.652,C:\Users\END-USER\Documents\Design Pattern Training\CompoundPattern\clsMallardDuck.pas=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\clsMallardDuck.pas</Transaction>
-    <Transaction>2025/07/11 14:00:40.342,C:\Users\END-USER\Documents\Design Pattern Training\CompoundPattern\intfQuackable.pas=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\intfQuackable.pas</Transaction>
-    <Transaction>2025/07/11 14:00:42.099,C:\Users\END-USER\Documents\Design Pattern Training\CompoundPattern\Project1.dproj=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
-    <Transaction>2025/07/11 14:01:04.799,C:\Users\END-USER\Documents\Design Pattern Training\CompoundPattern\CompoundPattern_p.dproj=C:\Users\END-USER\Documents\Design Pattern Training\CompoundPattern\Project1.dproj</Transaction>
+	<Transactions>
+    <Transaction>2025/07/11 13:26:37.000.563,=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025/07/11 13:26:53.000.159,C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\intfQuackable.pas</Transaction>
+    <Transaction>2025/07/11 13:30:43.000.023,=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025/07/11 13:32:48.000.511,=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2025/07/11 13:33:59.000.582,C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\Unit2.pas=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\clsRedHeadDuck.pas</Transaction>
+    <Transaction>2025/07/11 13:34:14.000.280,C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\clsMallardDuck.pas</Transaction>
+    <Transaction>2025/07/11 13:39:02.000.936,=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025/07/11 13:40:01.000.036,C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\clsDuckCall.pas</Transaction>
+    <Transaction>2025/07/11 13:41:58.000.546,=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025/07/11 13:44:41.000.539,C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\clsRubberDuck.pas</Transaction>
+    <Transaction>2025/07/11 13:45:23.000.254,=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025/07/11 13:45:58.000.582,C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\clsGeese.pas</Transaction>
+    <Transaction>2025/07/11 13:47:19.000.757,=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025/07/11 13:50:31.000.787,C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\clsGooseAdapter.pas</Transaction>
+    <Transaction>2025/07/11 13:52:28.000.941,=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025/07/11 13:57:11.000.036,C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\clsSimulate.pas</Transaction>
+    <Transaction>2025/07/11 14:00:29.000.643,C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\clsSimulate.pas=C:\Users\END-USER\Documents\Design Pattern Training\CompoundPattern\clsSimulate.pas</Transaction>
+    <Transaction>2025/07/11 14:00:31.000.264,C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\clsRubberDuck.pas=C:\Users\END-USER\Documents\Design Pattern Training\CompoundPattern\clsRubberDuck.pas</Transaction>
+    <Transaction>2025/07/11 14:00:32.000.891,C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\clsDuckCall.pas=C:\Users\END-USER\Documents\Design Pattern Training\CompoundPattern\clsDuckCall.pas</Transaction>
+    <Transaction>2025/07/11 14:00:34.000.306,C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\clsGooseAdapter.pas=C:\Users\END-USER\Documents\Design Pattern Training\CompoundPattern\clsGooseAdapter.pas</Transaction>
+    <Transaction>2025/07/11 14:00:35.000.779,C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\clsGeese.pas=C:\Users\END-USER\Documents\Design Pattern Training\CompoundPattern\clsGeese.pas</Transaction>
+    <Transaction>2025/07/11 14:00:37.000.149,C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\clsRedHeadDuck.pas=C:\Users\END-USER\Documents\Design Pattern Training\CompoundPattern\clsRedHeadDuck.pas</Transaction>
+    <Transaction>2025/07/11 14:00:38.000.652,C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\clsMallardDuck.pas=C:\Users\END-USER\Documents\Design Pattern Training\CompoundPattern\clsMallardDuck.pas</Transaction>
+    <Transaction>2025/07/11 14:00:40.000.342,C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\intfQuackable.pas=C:\Users\END-USER\Documents\Design Pattern Training\CompoundPattern\intfQuackable.pas</Transaction>
+    <Transaction>2025/07/11 14:00:42.000.099,C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\END-USER\Documents\Design Pattern Training\CompoundPattern\Project1.dproj</Transaction>
+    <Transaction>2025/07/11 14:01:04.000.799,C:\Users\END-USER\Documents\Design Pattern Training\CompoundPattern\Project1.dproj=C:\Users\END-USER\Documents\Design Pattern Training\CompoundPattern\CompoundPattern_p.dproj</Transaction>
+    <Transaction>2025/07/11 14:40:29.613,=C:\Users\END-USER\Documents\Design Pattern Training\CompoundPattern\Unit1.pas</Transaction>
+    <Transaction>2025/07/11 14:48:15.687,C:\Users\END-USER\Documents\Design Pattern Training\CompoundPattern\clsQuackCounter.pas=C:\Users\END-USER\Documents\Design Pattern Training\CompoundPattern\Unit1.pas</Transaction>
   </Transactions>
 </BorlandProject>
