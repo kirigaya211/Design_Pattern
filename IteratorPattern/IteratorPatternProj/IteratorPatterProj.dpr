@@ -10,8 +10,9 @@ uses
   clsBookIterator in 'clsBookIterator.pas',
   clsBookCollection in 'clsBookCollection.pas';
 
-Collection: TBookCollection;
-  Iterator: IBookIterator;
+  var
+    Collection: TBookCollection;
+    Iterator: IBookIterator;
 
 begin
   try
@@ -24,7 +25,7 @@ begin
 
     while
       Iterator.HasNext do
-        Writeln('Book:', Iteratator.Next);
+        Writeln('Book:', Iterator.Next);
 
 
     Readln;
