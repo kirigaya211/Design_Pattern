@@ -3,7 +3,10 @@
         <ProjectGuid>{8042AF26-2C37-4389-8644-48133CAE1C9D}</ProjectGuid>
     </PropertyGroup>
     <ItemGroup>
-        <Projects Include="DecorativePatternProj\DecorativePatternGun.dproj">
+        <Projects Include="DecorativePatternExample\DecorativePatternExample.dproj">
+            <Dependencies/>
+        </Projects>
+        <Projects Include="..\FactoryPattern\FactoryPatternNotif\FactoryPatternNotif.dproj">
             <Dependencies/>
         </Projects>
     </ItemGroup>
@@ -14,23 +17,32 @@
             <Default.Personality/>
         </BorlandProject>
     </ProjectExtensions>
-    <Target Name="DecorativePatternGun">
-        <MSBuild Projects="DecorativePatternProj\DecorativePatternGun.dproj"/>
+    <Target Name="DecorativePatternExample">
+        <MSBuild Projects="DecorativePatternExample\DecorativePatternExample.dproj"/>
     </Target>
-    <Target Name="DecorativePatternGun:Clean">
-        <MSBuild Projects="DecorativePatternProj\DecorativePatternGun.dproj" Targets="Clean"/>
+    <Target Name="DecorativePatternExample:Clean">
+        <MSBuild Projects="DecorativePatternExample\DecorativePatternExample.dproj" Targets="Clean"/>
     </Target>
-    <Target Name="DecorativePatternGun:Make">
-        <MSBuild Projects="DecorativePatternProj\DecorativePatternGun.dproj" Targets="Make"/>
+    <Target Name="DecorativePatternExample:Make">
+        <MSBuild Projects="DecorativePatternExample\DecorativePatternExample.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="FactoryPatternNotif">
+        <MSBuild Projects="..\FactoryPattern\FactoryPatternNotif\FactoryPatternNotif.dproj"/>
+    </Target>
+    <Target Name="FactoryPatternNotif:Clean">
+        <MSBuild Projects="..\FactoryPattern\FactoryPatternNotif\FactoryPatternNotif.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="FactoryPatternNotif:Make">
+        <MSBuild Projects="..\FactoryPattern\FactoryPatternNotif\FactoryPatternNotif.dproj" Targets="Make"/>
     </Target>
     <Target Name="Build">
-        <CallTarget Targets="DecorativePatternGun"/>
+        <CallTarget Targets="DecorativePatternExample;FactoryPatternNotif"/>
     </Target>
     <Target Name="Clean">
-        <CallTarget Targets="DecorativePatternGun:Clean"/>
+        <CallTarget Targets="DecorativePatternExample:Clean;FactoryPatternNotif:Clean"/>
     </Target>
     <Target Name="Make">
-        <CallTarget Targets="DecorativePatternGun:Make"/>
+        <CallTarget Targets="DecorativePatternExample:Make;FactoryPatternNotif:Make"/>
     </Target>
     <Import Project="$(BDS)\Bin\CodeGear.Group.Targets" Condition="Exists('$(BDS)\Bin\CodeGear.Group.Targets')"/>
 </Project>
