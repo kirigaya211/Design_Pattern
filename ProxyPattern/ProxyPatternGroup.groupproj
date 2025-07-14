@@ -1,0 +1,48 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+    <PropertyGroup>
+        <ProjectGuid>{14327107-5DF6-49FD-B56E-8FBAF475A105}</ProjectGuid>
+    </PropertyGroup>
+    <ItemGroup>
+        <Projects Include="ProxyPattern_p.dproj">
+            <Dependencies/>
+        </Projects>
+        <Projects Include="ProxyPatternProj\ProxyPatternProj.dproj">
+            <Dependencies/>
+        </Projects>
+    </ItemGroup>
+    <ProjectExtensions>
+        <Borland.Personality>Default.Personality.12</Borland.Personality>
+        <Borland.ProjectType/>
+        <BorlandProject>
+            <Default.Personality/>
+        </BorlandProject>
+    </ProjectExtensions>
+    <Target Name="ProxyPattern_p">
+        <MSBuild Projects="ProxyPattern_p.dproj"/>
+    </Target>
+    <Target Name="ProxyPattern_p:Clean">
+        <MSBuild Projects="ProxyPattern_p.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="ProxyPattern_p:Make">
+        <MSBuild Projects="ProxyPattern_p.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="ProxyPatternProj">
+        <MSBuild Projects="ProxyPatternProj\ProxyPatternProj.dproj"/>
+    </Target>
+    <Target Name="ProxyPatternProj:Clean">
+        <MSBuild Projects="ProxyPatternProj\ProxyPatternProj.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="ProxyPatternProj:Make">
+        <MSBuild Projects="ProxyPatternProj\ProxyPatternProj.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="Build">
+        <CallTarget Targets="ProxyPattern_p;ProxyPatternProj"/>
+    </Target>
+    <Target Name="Clean">
+        <CallTarget Targets="ProxyPattern_p:Clean;ProxyPatternProj:Clean"/>
+    </Target>
+    <Target Name="Make">
+        <CallTarget Targets="ProxyPattern_p:Make;ProxyPatternProj:Make"/>
+    </Target>
+    <Import Project="$(BDS)\Bin\CodeGear.Group.Targets" Condition="Exists('$(BDS)\Bin\CodeGear.Group.Targets')"/>
+</Project>
