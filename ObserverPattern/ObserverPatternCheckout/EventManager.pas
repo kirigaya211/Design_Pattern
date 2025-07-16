@@ -1,0 +1,54 @@
+unit EventManager;
+
+interface
+uses EventListeners, System.Generics.Collections;
+
+type
+  TEventManager = class
+    private
+      FListeners: TList<IEventListeners>;
+      FMessage: string;
+    public
+      constructor Create;
+      procedure Subscribe(AListener:IEventListeners);
+      procedure Unsubscribe(AListener: IEventListeners);
+      procedure Notify(AMessage: string);
+  end;
+
+implementation
+
+constructor TEventManager.Create;
+begin
+  FListeners:=TList<IEventListeners>.Create
+end;
+
+{ EventManager }
+
+procedure TEventManager.Notify(AMessage: string);
+var
+  I: Integer;
+begin
+  if FListeners=nil then
+    Writeln('No listeners on the list')
+  else
+    for I := 0 to FListeners.Count-1 do
+      FListeners[I].Update(AMessage);
+
+
+end;
+
+procedure TEventManager.Subscribe(AListener: IEventListeners);
+begin
+  if FListeners.Contains(AListener) then
+    Writeln('Listener is already in the Listener List')
+  else
+    FListeners.Add(AListener);
+
+end;
+
+procedure TEventManager.Unsubscribe(AListener: IEventListeners);
+begin
+  FListeners.Remove(AListener);
+end;
+
+end.

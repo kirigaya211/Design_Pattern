@@ -1,0 +1,24 @@
+unit SmsListener;
+
+interface
+uses EventListeners;
+
+type
+  TSmsListener = class(TInterfacedObject, IEventListeners)
+    private
+      FMessage: string;
+    public
+      procedure Update(AMessage: string);
+  end;
+
+implementation
+
+{ TSmsListener }
+
+procedure TSmsListener.Update(AMessage: string);
+begin
+  FMessage:= AMessage;
+  Writeln(FMessage);
+end;
+
+end.
