@@ -1,0 +1,72 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+    <PropertyGroup>
+        <ProjectGuid>{6B6EAD5A-530A-4B97-A710-01D53B8484F9}</ProjectGuid>
+    </PropertyGroup>
+    <ItemGroup>
+        <Projects Include="ObserverPatternCheckout.dproj">
+            <Dependencies/>
+        </Projects>
+        <Projects Include="..\..\DecorativePattern\DecorativePatternCharacter\DecorativePatternCharacter.dproj">
+            <Dependencies/>
+        </Projects>
+        <Projects Include="..\..\..\..\Embarcadero\Studio\Projects\FactoryMethodNotifier.dproj">
+            <Dependencies/>
+        </Projects>
+        <Projects Include="..\..\FactoryPattern\FactoryPatternNotif\FactoryPatternNotif.dproj">
+            <Dependencies/>
+        </Projects>
+    </ItemGroup>
+    <ProjectExtensions>
+        <Borland.Personality>Default.Personality.12</Borland.Personality>
+        <Borland.ProjectType/>
+        <BorlandProject>
+            <Default.Personality/>
+        </BorlandProject>
+    </ProjectExtensions>
+    <Target Name="ObserverPatternCheckout">
+        <MSBuild Projects="ObserverPatternCheckout.dproj"/>
+    </Target>
+    <Target Name="ObserverPatternCheckout:Clean">
+        <MSBuild Projects="ObserverPatternCheckout.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="ObserverPatternCheckout:Make">
+        <MSBuild Projects="ObserverPatternCheckout.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="DecorativePatternCharacter">
+        <MSBuild Projects="..\..\DecorativePattern\DecorativePatternCharacter\DecorativePatternCharacter.dproj"/>
+    </Target>
+    <Target Name="DecorativePatternCharacter:Clean">
+        <MSBuild Projects="..\..\DecorativePattern\DecorativePatternCharacter\DecorativePatternCharacter.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="DecorativePatternCharacter:Make">
+        <MSBuild Projects="..\..\DecorativePattern\DecorativePatternCharacter\DecorativePatternCharacter.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="FactoryMethodNotifier">
+        <MSBuild Projects="..\..\..\..\Embarcadero\Studio\Projects\FactoryMethodNotifier.dproj"/>
+    </Target>
+    <Target Name="FactoryMethodNotifier:Clean">
+        <MSBuild Projects="..\..\..\..\Embarcadero\Studio\Projects\FactoryMethodNotifier.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="FactoryMethodNotifier:Make">
+        <MSBuild Projects="..\..\..\..\Embarcadero\Studio\Projects\FactoryMethodNotifier.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="FactoryPatternNotif">
+        <MSBuild Projects="..\..\FactoryPattern\FactoryPatternNotif\FactoryPatternNotif.dproj"/>
+    </Target>
+    <Target Name="FactoryPatternNotif:Clean">
+        <MSBuild Projects="..\..\FactoryPattern\FactoryPatternNotif\FactoryPatternNotif.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="FactoryPatternNotif:Make">
+        <MSBuild Projects="..\..\FactoryPattern\FactoryPatternNotif\FactoryPatternNotif.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="Build">
+        <CallTarget Targets="ObserverPatternCheckout;DecorativePatternCharacter;FactoryMethodNotifier;FactoryPatternNotif"/>
+    </Target>
+    <Target Name="Clean">
+        <CallTarget Targets="ObserverPatternCheckout:Clean;DecorativePatternCharacter:Clean;FactoryMethodNotifier:Clean;FactoryPatternNotif:Clean"/>
+    </Target>
+    <Target Name="Make">
+        <CallTarget Targets="ObserverPatternCheckout:Make;DecorativePatternCharacter:Make;FactoryMethodNotifier:Make;FactoryPatternNotif:Make"/>
+    </Target>
+    <Import Project="$(BDS)\Bin\CodeGear.Group.Targets" Condition="Exists('$(BDS)\Bin\CodeGear.Group.Targets')"/>
+</Project>
