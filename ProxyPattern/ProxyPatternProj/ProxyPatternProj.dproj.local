@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2025/07/11 09:49:28.151,C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\ProxyPatternProj.dproj=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\Project2.dproj</Transaction>
+    <Transaction>2025/07/11 09:49:33.094,=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025/07/11 10:16:06.351,C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\clsPersonalAccess.pas=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025/07/11 10:17:47.048,=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025/07/11 10:17:59.173,C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\clsPersonalInformation.pas=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025/07/11 10:22:37.017,=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025/07/11 10:23:34.731,C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\intfAccessParser.pas=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025/07/11 10:39:39.999,=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025/07/11 10:39:50.817,C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\clsLazyPersonalAccess.pas=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025/07/11 10:53:54.879,C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\clsLazyPersonalAccessProxy.pas=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\clsLazyPersonalAccess.pas</Transaction>
+    <Transaction>2025/07/11 10:54:17.872,C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\clsLazyPersonalAccess.pas=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\clsLazyPersonalAccessProxy.pas</Transaction>
+    <Transaction>2025/07/11 11:18:29.872,C:\Users\END-USER\Documents\Design Pattern Training\ProxyPattern\ProxyPatternProj\clsPersonalAccess.pas=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\clsPersonalAccess.pas</Transaction>
+    <Transaction>2025/07/11 11:18:31.375,C:\Users\END-USER\Documents\Design Pattern Training\ProxyPattern\ProxyPatternProj\clsLazyPersonalAccess.pas=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\clsLazyPersonalAccess.pas</Transaction>
+    <Transaction>2025/07/11 11:18:32.918,C:\Users\END-USER\Documents\Design Pattern Training\ProxyPattern\ProxyPatternProj\clsPersonalInformation.pas=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\clsPersonalInformation.pas</Transaction>
+    <Transaction>2025/07/11 11:18:34.256,C:\Users\END-USER\Documents\Design Pattern Training\ProxyPattern\ProxyPatternProj\intfAccessParser.pas=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\intfAccessParser.pas</Transaction>
+    <Transaction>2025/07/11 11:18:35.784,C:\Users\END-USER\Documents\Design Pattern Training\ProxyPattern\ProxyPatternProj\ProxyPatternProj.dproj=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\ProxyPatternProj.dproj</Transaction>
+  </Transactions>
+</BorlandProject>

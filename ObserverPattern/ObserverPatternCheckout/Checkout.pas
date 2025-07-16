@@ -1,0 +1,35 @@
+unit Checkout;
+
+interface
+uses EventManager;
+
+type
+  TCheckout = class
+    private
+      procedure ExecutePayment;
+    public
+      FEvent: TEventManager;
+      constructor Create;
+      procedure Payment;
+  end;
+
+implementation
+
+{ TCheckout }
+
+constructor TCheckout.Create;
+begin
+  FEvent:= TEventManager.Create;
+end;
+
+procedure TCheckout.ExecutePayment;
+begin
+
+end;
+
+procedure TCheckout.Payment;
+begin
+  FEvent.Notify('Payment Process');
+end;
+
+end.
