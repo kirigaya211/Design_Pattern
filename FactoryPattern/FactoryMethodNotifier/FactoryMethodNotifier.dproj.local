@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2025/07/17 03:59:55.760,D:\Arzenal\Documents\Embarcadero\Studio\Projects\FactoryMethodNotifier.dproj=D:\Arzenal\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2025/07/17 04:00:17.985,D:\Arzenal\Documents\GitHub\Design_Pattern\FactoryPattern\FactoryMethodNotifier\FactoryMethodNotifier.dproj=D:\Arzenal\Documents\Embarcadero\Studio\Projects\FactoryMethodNotifier.dproj</Transaction>
+    <Transaction>2025/07/17 04:00:27.896,=D:\Arzenal\Documents\GitHub\Design_Pattern\FactoryPattern\FactoryMethodNotifier\EmailListener.pas</Transaction>
+    <Transaction>2025/07/17 04:00:27.948,=D:\Arzenal\Documents\GitHub\Design_Pattern\FactoryPattern\FactoryMethodNotifier\EventListeners.pas</Transaction>
+    <Transaction>2025/07/17 04:00:27.991,=D:\Arzenal\Documents\GitHub\Design_Pattern\FactoryPattern\FactoryMethodNotifier\EventManager.pas</Transaction>
+    <Transaction>2025/07/17 04:00:28.057,=D:\Arzenal\Documents\GitHub\Design_Pattern\FactoryPattern\FactoryMethodNotifier\SmsListener.pas</Transaction>
+    <Transaction>2025/07/17 04:02:45.115,D:\Arzenal\Documents\GitHub\Design_Pattern\FactoryPattern\FactoryMethodNotifier\EmailListener.pas=</Transaction>
+    <Transaction>2025/07/17 04:02:45.165,D:\Arzenal\Documents\GitHub\Design_Pattern\FactoryPattern\FactoryMethodNotifier\EventListeners.pas=</Transaction>
+    <Transaction>2025/07/17 04:02:45.201,D:\Arzenal\Documents\GitHub\Design_Pattern\FactoryPattern\FactoryMethodNotifier\EventManager.pas=</Transaction>
+    <Transaction>2025/07/17 04:02:45.234,D:\Arzenal\Documents\GitHub\Design_Pattern\FactoryPattern\FactoryMethodNotifier\SmsListener.pas=</Transaction>
+    <Transaction>2025/07/17 04:03:00.659,=D:\Arzenal\Documents\GitHub\Design_Pattern\FactoryPattern\FactoryMethodNotifier\Unit1.pas</Transaction>
+    <Transaction>2025/07/17 04:03:12.984,D:\Arzenal\Documents\GitHub\Design_Pattern\FactoryPattern\FactoryMethodNotifier\Notifier.pas=D:\Arzenal\Documents\GitHub\Design_Pattern\FactoryPattern\FactoryMethodNotifier\Unit1.pas</Transaction>
+    <Transaction>2025/07/17 04:04:01.881,=D:\Arzenal\Documents\GitHub\Design_Pattern\FactoryPattern\FactoryMethodNotifier\Unit1.pas</Transaction>
+    <Transaction>2025/07/17 04:04:24.946,D:\Arzenal\Documents\GitHub\Design_Pattern\FactoryPattern\FactoryMethodNotifier\EmailNotifier.pas=D:\Arzenal\Documents\GitHub\Design_Pattern\FactoryPattern\FactoryMethodNotifier\Unit1.pas</Transaction>
+    <Transaction>2025/07/17 04:04:53.200,=D:\Arzenal\Documents\GitHub\Design_Pattern\FactoryPattern\FactoryMethodNotifier\Unit1.pas</Transaction>
+    <Transaction>2025/07/17 04:05:09.105,D:\Arzenal\Documents\GitHub\Design_Pattern\FactoryPattern\FactoryMethodNotifier\SmsNotifier.pas=D:\Arzenal\Documents\GitHub\Design_Pattern\FactoryPattern\FactoryMethodNotifier\Unit1.pas</Transaction>
+    <Transaction>2025/07/17 04:08:49.525,=D:\Arzenal\Documents\GitHub\Design_Pattern\FactoryPattern\FactoryMethodNotifier\Unit1.pas</Transaction>
+    <Transaction>2025/07/17 04:09:14.028,D:\Arzenal\Documents\GitHub\Design_Pattern\FactoryPattern\FactoryMethodNotifier\CreatorNotifier.pas=D:\Arzenal\Documents\GitHub\Design_Pattern\FactoryPattern\FactoryMethodNotifier\Unit1.pas</Transaction>
+    <Transaction>2025/07/17 04:34:01.867,=D:\Arzenal\Documents\GitHub\Design_Pattern\FactoryPattern\FactoryMethodNotifier\Unit1.pas</Transaction>
+    <Transaction>2025/07/17 04:34:22.945,D:\Arzenal\Documents\GitHub\Design_Pattern\FactoryPattern\FactoryMethodNotifier\EmailNotifierApp.pas=D:\Arzenal\Documents\GitHub\Design_Pattern\FactoryPattern\FactoryMethodNotifier\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
