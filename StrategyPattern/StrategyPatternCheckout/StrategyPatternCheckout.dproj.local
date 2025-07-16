@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2025/07/16 09:27:16.552,=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025/07/16 09:33:15.049,C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\TCheckout.pas=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025/07/16 09:35:44.291,C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\Checkout.pas=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\TCheckout.pas</Transaction>
+    <Transaction>2025/07/16 09:35:51.586,=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025/07/16 09:37:00.130,C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\Payment.pas=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025/07/16 09:39:13.160,=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025/07/16 09:39:20.872,C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\Gcash.pas=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025/07/16 09:39:30.485,C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\GcashPayment.pas=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\Gcash.pas</Transaction>
+    <Transaction>2025/07/16 09:39:34.394,=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025/07/16 09:39:40.531,C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\MayaPayment.pas=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025/07/16 10:10:23.262,C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\StrategyPatternProject.dproj=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2025/07/16 10:10:35.308,C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\StrategyPatternCheckout.dproj=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\StrategyPatternProject.dproj</Transaction>
+    <Transaction>2025/07/16 10:11:30.424,C:\Users\END-USER\Documents\Design Pattern Training\StrategyPattern\StrategyPatternCheckout\Checkout.pas=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\Checkout.pas</Transaction>
+    <Transaction>2025/07/16 10:11:32.255,C:\Users\END-USER\Documents\Design Pattern Training\StrategyPattern\StrategyPatternCheckout\GcashPayment.pas=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\GcashPayment.pas</Transaction>
+    <Transaction>2025/07/16 10:11:34.182,C:\Users\END-USER\Documents\Design Pattern Training\StrategyPattern\StrategyPatternCheckout\MayaPayment.pas=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\MayaPayment.pas</Transaction>
+    <Transaction>2025/07/16 10:11:35.946,C:\Users\END-USER\Documents\Design Pattern Training\StrategyPattern\StrategyPatternCheckout\Payment.pas=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\Payment.pas</Transaction>
+    <Transaction>2025/07/16 10:11:37.962,C:\Users\END-USER\Documents\Design Pattern Training\StrategyPattern\StrategyPatternCheckout\StrategyPatternCheckout.dproj=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\StrategyPatternCheckout.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
