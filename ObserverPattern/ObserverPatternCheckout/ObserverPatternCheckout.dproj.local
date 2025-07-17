@@ -1,23 +1,2 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<BorlandProject>
-	<Transactions>
-    <Transaction>2025/07/16 10:33:51.000.655,C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\ObserverPattern.dproj</Transaction>
-    <Transaction>2025/07/16 13:49:33.000.908,=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
-    <Transaction>2025/07/16 13:51:11.000.151,=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
-    <Transaction>2025/07/16 13:51:26.000.298,C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\Unit2.pas=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\EventListeners.pas</Transaction>
-    <Transaction>2025/07/16 13:58:34.000.953,C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\EventManager.pas</Transaction>
-    <Transaction>2025/07/16 13:58:59.000.631,=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
-    <Transaction>2025/07/16 13:59:18.000.967,C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\SmsListener.pas</Transaction>
-    <Transaction>2025/07/16 14:28:41.000.165,=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
-    <Transaction>2025/07/16 14:30:42.000.103,C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\EmailListener.pas</Transaction>
-    <Transaction>2025/07/16 14:42:36.000.132,=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
-    <Transaction>2025/07/16 14:42:45.000.756,C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\Checkout.pas</Transaction>
-    <Transaction>2025/07/16 14:48:47.000.249,C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\ObserverPattern.dproj=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\ObserverPatternCheckout.dproj</Transaction>
-    <Transaction>2025/07/16 15:52:13.000.728,C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\EventManager.pas=C:\Users\END-USER\Documents\Design Pattern Training\ObserverPattern\ObserverPatternCheckout\EventManager.pas</Transaction>
-    <Transaction>2025/07/16 15:52:16.000.059,C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\Checkout.pas=C:\Users\END-USER\Documents\Design Pattern Training\ObserverPattern\ObserverPatternCheckout\Checkout.pas</Transaction>
-    <Transaction>2025/07/16 15:52:18.000.323,C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\EventListeners.pas=C:\Users\END-USER\Documents\Design Pattern Training\ObserverPattern\ObserverPatternCheckout\EventListeners.pas</Transaction>
-    <Transaction>2025/07/16 15:52:20.000.344,C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\EmailListener.pas=C:\Users\END-USER\Documents\Design Pattern Training\ObserverPattern\ObserverPatternCheckout\EmailListener.pas</Transaction>
-    <Transaction>2025/07/16 15:52:22.000.233,C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\SmsListener.pas=C:\Users\END-USER\Documents\Design Pattern Training\ObserverPattern\ObserverPatternCheckout\SmsListener.pas</Transaction>
-    <Transaction>2025/07/16 15:52:24.000.416,C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\ObserverPatternCheckout.dproj=C:\Users\END-USER\Documents\Design Pattern Training\ObserverPattern\ObserverPatternCheckout\ObserverPatternCheckout.dproj</Transaction>
-  </Transactions>
-</BorlandProject>
+<BorlandProject/>

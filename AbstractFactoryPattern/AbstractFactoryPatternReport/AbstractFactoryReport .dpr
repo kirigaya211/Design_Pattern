@@ -1,0 +1,43 @@
+program AbstractFactoryReport  ;
+
+{$APPTYPE CONSOLE}
+
+//{$R *.res}
+
+uses
+  System.SysUtils,
+  ReportHeader in 'ReportHeader.pas',
+  ReportBody in 'ReportBody.pas',
+  ReportFooter in 'ReportFooter.pas',
+  ReportFactory in 'ReportFactory.pas',
+  PDFHeader in 'PDFHeader.pas',
+  PDFBody in 'PDFBody.pas',
+  PDFFooter in 'PDFFooter.pas',
+  PDFReportFactory in 'PDFReportFactory.pas',
+  ExcelHeader in 'ExcelHeader.pas',
+  ExcelBody in 'ExcelBody.pas',
+  ExcelFooter in 'ExcelFooter.pas',
+  ExcelReportFactory in 'ExcelReportFactory.pas';
+
+var
+  Factory: IReportFactory;
+  Header: IReportHeader;
+  Body: IReportBody;
+  Footer: IReportFooter;
+begin
+  try
+   Factory := TPDFReportFactory.Create;
+   Header:= Factory.CreateHeader;
+   Body:= Factory.CreateBody;
+   Footer:= Factory.CreateFooter;
+
+   Header.PrintHeader;
+   Body.PrintBody;
+   Footer.PrintFooter;
+
+   Readln;
+  except
+    on E: Exception do
+      Writeln(E.ClassName, ': ', E.Message);
+  end;
+end.

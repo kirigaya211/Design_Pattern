@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2025/07/17 09:10:38.514,=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025/07/17 09:10:41.879,=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2025/07/17 09:10:44.537,=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>2025/07/17 09:11:43.332,C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\ReportHeader.pas=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025/07/17 09:12:00.635,C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\ReportBody.pas=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2025/07/17 09:12:47.305,C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\ReportFooter.pas=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>2025/07/17 09:13:30.740,=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025/07/17 09:13:38.385,C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\ReportFactory.pas=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025/07/17 09:15:36.562,=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025/07/17 09:15:40.301,=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2025/07/17 09:15:43.602,=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>2025/07/17 09:17:59.383,C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\PDFHeader.pas=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025/07/17 09:18:07.933,C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\PDFBody.pas=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2025/07/17 09:19:36.213,C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\PDFFooter.pas=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>2025/07/17 09:21:27.156,=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025/07/17 09:21:40.445,C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\PDFReportFactory.pas=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025/07/17 09:27:06.671,C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\Abstract .dproj=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2025/07/17 09:27:23.671,C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\AbstractFactoryReport .dproj=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\Abstract .dproj</Transaction>
+    <Transaction>2025/07/17 09:34:23.799,C:\Users\END-USER\Documents\Design Pattern Training\AbstractFactoryPattern\AbstractFactoryPatternReport\PDFReportFactory.pas=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\PDFReportFactory.pas</Transaction>
+    <Transaction>2025/07/17 09:34:26.080,C:\Users\END-USER\Documents\Design Pattern Training\AbstractFactoryPattern\AbstractFactoryPatternReport\ReportFactory.pas=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\ReportFactory.pas</Transaction>
+    <Transaction>2025/07/17 09:34:27.631,C:\Users\END-USER\Documents\Design Pattern Training\AbstractFactoryPattern\AbstractFactoryPatternReport\ReportBody.pas=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\ReportBody.pas</Transaction>
+    <Transaction>2025/07/17 09:34:29.225,C:\Users\END-USER\Documents\Design Pattern Training\AbstractFactoryPattern\AbstractFactoryPatternReport\PDFFooter.pas=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\PDFFooter.pas</Transaction>
+    <Transaction>2025/07/17 09:34:30.662,C:\Users\END-USER\Documents\Design Pattern Training\AbstractFactoryPattern\AbstractFactoryPatternReport\PDFBody.pas=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\PDFBody.pas</Transaction>
+    <Transaction>2025/07/17 09:34:32.248,C:\Users\END-USER\Documents\Design Pattern Training\AbstractFactoryPattern\AbstractFactoryPatternReport\PDFHeader.pas=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\PDFHeader.pas</Transaction>
+    <Transaction>2025/07/17 09:34:33.755,C:\Users\END-USER\Documents\Design Pattern Training\AbstractFactoryPattern\AbstractFactoryPatternReport\ReportFooter.pas=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\ReportFooter.pas</Transaction>
+    <Transaction>2025/07/17 09:34:35.232,C:\Users\END-USER\Documents\Design Pattern Training\AbstractFactoryPattern\AbstractFactoryPatternReport\ReportHeader.pas=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\ReportHeader.pas</Transaction>
+    <Transaction>2025/07/17 09:34:36.695,C:\Users\END-USER\Documents\Design Pattern Training\AbstractFactoryPattern\AbstractFactoryPatternReport\AbstractFactoryReport .dproj=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\AbstractFactoryReport .dproj</Transaction>
+    <Transaction>2025/07/17 09:37:40.681,=C:\Users\END-USER\Documents\Design Pattern Training\AbstractFactoryPattern\AbstractFactoryPatternReport\Unit1.pas</Transaction>
+    <Transaction>2025/07/17 09:37:50.975,C:\Users\END-USER\Documents\Design Pattern Training\AbstractFactoryPattern\AbstractFactoryPatternReport\ExcelHeader.pas=C:\Users\END-USER\Documents\Design Pattern Training\AbstractFactoryPattern\AbstractFactoryPatternReport\Unit1.pas</Transaction>
+    <Transaction>2025/07/17 09:40:30.006,=C:\Users\END-USER\Documents\Design Pattern Training\AbstractFactoryPattern\AbstractFactoryPatternReport\Unit1.pas</Transaction>
+    <Transaction>2025/07/17 09:40:43.165,C:\Users\END-USER\Documents\Design Pattern Training\AbstractFactoryPattern\AbstractFactoryPatternReport\ExcelBody.pas=C:\Users\END-USER\Documents\Design Pattern Training\AbstractFactoryPattern\AbstractFactoryPatternReport\Unit1.pas</Transaction>
+    <Transaction>2025/07/17 09:42:53.741,=C:\Users\END-USER\Documents\Design Pattern Training\AbstractFactoryPattern\AbstractFactoryPatternReport\Unit1.pas</Transaction>
+    <Transaction>2025/07/17 09:43:02.181,C:\Users\END-USER\Documents\Design Pattern Training\AbstractFactoryPattern\AbstractFactoryPatternReport\ExcelFooter.pas=C:\Users\END-USER\Documents\Design Pattern Training\AbstractFactoryPattern\AbstractFactoryPatternReport\Unit1.pas</Transaction>
+    <Transaction>2025/07/17 09:44:25.682,=C:\Users\END-USER\Documents\Design Pattern Training\AbstractFactoryPattern\AbstractFactoryPatternReport\Unit1.pas</Transaction>
+    <Transaction>2025/07/17 09:44:44.259,C:\Users\END-USER\Documents\Design Pattern Training\AbstractFactoryPattern\AbstractFactoryPatternReport\ExcelReportFactory.pas=C:\Users\END-USER\Documents\Design Pattern Training\AbstractFactoryPattern\AbstractFactoryPatternReport\Unit1.pas</Transaction>
+  </Transactions>
+  <ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="ExcelBody.pas"/>
+    <File Path="ExcelFooter.pas"/>
+    <File Path="ExcelHeader.pas"/>
+    <File Path="ExcelReportFactory.pas"/>
+    <File Path="PDFBody.pas"/>
+    <File Path="PDFFooter.pas"/>
+    <File Path="PDFHeader.pas"/>
+    <File Path="PDFReportFactory.pas"/>
+    <File Path="ReportBody.pas"/>
+    <File Path="ReportFactory.pas"/>
+    <File Path="ReportFooter.pas"/>
+    <File Path="ReportHeader.pas"/>
+  </ProjectSortOrder>
+</BorlandProject>

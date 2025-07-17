@@ -1,0 +1,84 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+    <PropertyGroup>
+        <ProjectGuid>{6A6AA824-908E-4178-9E8F-0EF51DDE2979}</ProjectGuid>
+    </PropertyGroup>
+    <ItemGroup>
+        <Projects Include="StrategyPatternCheckout.dproj">
+            <Dependencies/>
+        </Projects>
+        <Projects Include="..\..\ObserverPattern\ObserverPatternCheckout\ObserverPatternCheckout.dproj">
+            <Dependencies/>
+        </Projects>
+        <Projects Include="..\..\DecorativePattern\DecorativePatternCharacter\DecorativePatternCharacter.dproj">
+            <Dependencies/>
+        </Projects>
+        <Projects Include="..\..\FactoryPattern\FactoryMethodNotifier\FactoryMethodNotifier.dproj">
+            <Dependencies/>
+        </Projects>
+        <Projects Include="..\..\AbstractFactoryPattern\AbstractFactoryPatternReport\AbstractFactoryReport .dproj">
+            <Dependencies/>
+        </Projects>
+    </ItemGroup>
+    <ProjectExtensions>
+        <Borland.Personality>Default.Personality.12</Borland.Personality>
+        <Borland.ProjectType/>
+        <BorlandProject>
+            <Default.Personality/>
+        </BorlandProject>
+    </ProjectExtensions>
+    <Target Name="StrategyPatternCheckout">
+        <MSBuild Projects="StrategyPatternCheckout.dproj"/>
+    </Target>
+    <Target Name="StrategyPatternCheckout:Clean">
+        <MSBuild Projects="StrategyPatternCheckout.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="StrategyPatternCheckout:Make">
+        <MSBuild Projects="StrategyPatternCheckout.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="ObserverPatternCheckout">
+        <MSBuild Projects="..\..\ObserverPattern\ObserverPatternCheckout\ObserverPatternCheckout.dproj"/>
+    </Target>
+    <Target Name="ObserverPatternCheckout:Clean">
+        <MSBuild Projects="..\..\ObserverPattern\ObserverPatternCheckout\ObserverPatternCheckout.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="ObserverPatternCheckout:Make">
+        <MSBuild Projects="..\..\ObserverPattern\ObserverPatternCheckout\ObserverPatternCheckout.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="DecorativePatternCharacter">
+        <MSBuild Projects="..\..\DecorativePattern\DecorativePatternCharacter\DecorativePatternCharacter.dproj"/>
+    </Target>
+    <Target Name="DecorativePatternCharacter:Clean">
+        <MSBuild Projects="..\..\DecorativePattern\DecorativePatternCharacter\DecorativePatternCharacter.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="DecorativePatternCharacter:Make">
+        <MSBuild Projects="..\..\DecorativePattern\DecorativePatternCharacter\DecorativePatternCharacter.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="FactoryMethodNotifier">
+        <MSBuild Projects="..\..\FactoryPattern\FactoryMethodNotifier\FactoryMethodNotifier.dproj"/>
+    </Target>
+    <Target Name="FactoryMethodNotifier:Clean">
+        <MSBuild Projects="..\..\FactoryPattern\FactoryMethodNotifier\FactoryMethodNotifier.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="FactoryMethodNotifier:Make">
+        <MSBuild Projects="..\..\FactoryPattern\FactoryMethodNotifier\FactoryMethodNotifier.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="AbstractFactoryReport ">
+        <MSBuild Projects="..\..\AbstractFactoryPattern\AbstractFactoryPatternReport\AbstractFactoryReport .dproj"/>
+    </Target>
+    <Target Name="AbstractFactoryReport :Clean">
+        <MSBuild Projects="..\..\AbstractFactoryPattern\AbstractFactoryPatternReport\AbstractFactoryReport .dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="AbstractFactoryReport :Make">
+        <MSBuild Projects="..\..\AbstractFactoryPattern\AbstractFactoryPatternReport\AbstractFactoryReport .dproj" Targets="Make"/>
+    </Target>
+    <Target Name="Build">
+        <CallTarget Targets="StrategyPatternCheckout;ObserverPatternCheckout;DecorativePatternCharacter;FactoryMethodNotifier;AbstractFactoryReport "/>
+    </Target>
+    <Target Name="Clean">
+        <CallTarget Targets="StrategyPatternCheckout:Clean;ObserverPatternCheckout:Clean;DecorativePatternCharacter:Clean;FactoryMethodNotifier:Clean;AbstractFactoryReport :Clean"/>
+    </Target>
+    <Target Name="Make">
+        <CallTarget Targets="StrategyPatternCheckout:Make;ObserverPatternCheckout:Make;DecorativePatternCharacter:Make;FactoryMethodNotifier:Make;AbstractFactoryReport :Make"/>
+    </Target>
+    <Import Project="$(BDS)\Bin\CodeGear.Group.Targets" Condition="Exists('$(BDS)\Bin\CodeGear.Group.Targets')"/>
+</Project>
