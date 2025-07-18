@@ -18,6 +18,9 @@
         <Projects Include="..\..\AbstractFactoryPattern\AbstractFactoryPatternReport\AbstractFactoryReport .dproj">
             <Dependencies/>
         </Projects>
+        <Projects Include="..\..\SingletonPattern\SingletonPattern_p.dproj">
+            <Dependencies/>
+        </Projects>
     </ItemGroup>
     <ProjectExtensions>
         <Borland.Personality>Default.Personality.12</Borland.Personality>
@@ -71,14 +74,23 @@
     <Target Name="AbstractFactoryReport :Make">
         <MSBuild Projects="..\..\AbstractFactoryPattern\AbstractFactoryPatternReport\AbstractFactoryReport .dproj" Targets="Make"/>
     </Target>
+    <Target Name="SingletonPattern_p">
+        <MSBuild Projects="..\..\SingletonPattern\SingletonPattern_p.dproj"/>
+    </Target>
+    <Target Name="SingletonPattern_p:Clean">
+        <MSBuild Projects="..\..\SingletonPattern\SingletonPattern_p.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="SingletonPattern_p:Make">
+        <MSBuild Projects="..\..\SingletonPattern\SingletonPattern_p.dproj" Targets="Make"/>
+    </Target>
     <Target Name="Build">
-        <CallTarget Targets="StrategyPatternCheckout;ObserverPatternCheckout;DecorativePatternCharacter;FactoryMethodNotifier;AbstractFactoryReport "/>
+        <CallTarget Targets="StrategyPatternCheckout;ObserverPatternCheckout;DecorativePatternCharacter;FactoryMethodNotifier;AbstractFactoryReport ;SingletonPattern_p"/>
     </Target>
     <Target Name="Clean">
-        <CallTarget Targets="StrategyPatternCheckout:Clean;ObserverPatternCheckout:Clean;DecorativePatternCharacter:Clean;FactoryMethodNotifier:Clean;AbstractFactoryReport :Clean"/>
+        <CallTarget Targets="StrategyPatternCheckout:Clean;ObserverPatternCheckout:Clean;DecorativePatternCharacter:Clean;FactoryMethodNotifier:Clean;AbstractFactoryReport :Clean;SingletonPattern_p:Clean"/>
     </Target>
     <Target Name="Make">
-        <CallTarget Targets="StrategyPatternCheckout:Make;ObserverPatternCheckout:Make;DecorativePatternCharacter:Make;FactoryMethodNotifier:Make;AbstractFactoryReport :Make"/>
+        <CallTarget Targets="StrategyPatternCheckout:Make;ObserverPatternCheckout:Make;DecorativePatternCharacter:Make;FactoryMethodNotifier:Make;AbstractFactoryReport :Make;SingletonPattern_p:Make"/>
     </Target>
     <Import Project="$(BDS)\Bin\CodeGear.Group.Targets" Condition="Exists('$(BDS)\Bin\CodeGear.Group.Targets')"/>
 </Project>

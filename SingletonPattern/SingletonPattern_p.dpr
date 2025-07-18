@@ -6,12 +6,18 @@ program SingletonPattern_p;
 
 uses
   System.SysUtils,
-  clsChat in 'clsChat.pas';
+  DatabaseConnect in 'DatabaseConnect.pas';
 
+var
+  Database: TDatabaseConnect;
+  DummyConnection: TDatabaseConnect;
 
 begin
   try
-    { TODO -oUser -cConsole Main : Insert code here }
+    Database:=TDatabaseConnect.GetInstance;
+    DummyConnection:= TDatabaseConnect.GetInstance;
+
+    Readln;
   except
     on E: Exception do
       Writeln(E.ClassName, ': ', E.Message);

@@ -17,7 +17,7 @@ implementation
 
 constructor TEmailListener.Create;
 begin
-  FMessage:= 'Email ';
+  FMessage:= 'Email received a notification: ';
 end;
 
 procedure TEmailListener.Update(AMessage: string);

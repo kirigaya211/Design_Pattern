@@ -18,7 +18,7 @@ implementation
 
 constructor TSmsListener.Create;
 begin
-  FMessage:= 'SMS ';
+  FMessage:= 'SMS received a notification: ';
 end;
 
 procedure TSmsListener.Update(AMessage: string);

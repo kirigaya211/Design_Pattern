@@ -24,6 +24,7 @@ begin
     SMS:= TSmsListener.Create;
     Checkout.FEvent.Subscribe(Email);
     Checkout.FEvent.Subscribe(SMS);
+    Checkout.FEvent.Unsubscribe(Email);
     Checkout.Payment;
 
     Readln;
